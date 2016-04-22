@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  get 'reseed' => 'application#reseed', as: :reseed
   get 'get_climate_zone_by_zip/:zip' => 'facilities#get_climate_zone_by_zip', as: :get_climate_zone_by_zip
   resources :metrics do
     collection do
