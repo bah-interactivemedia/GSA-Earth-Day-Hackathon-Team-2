@@ -59,3 +59,8 @@ header.row{
 .small-widgets{
 	margin-top: 10px;
 }
+
+#chart_div{
+	width: 900px; 
+	height: 500px;
+}
