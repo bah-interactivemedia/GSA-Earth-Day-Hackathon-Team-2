@@ -1,0 +1,1166 @@
+region,region_name,forest,forest_name,district,district_name,state
+1,Northern Region,,,,,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,0,Supervisor’s Office,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,1,Dillon RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,2,Wise River RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,3,Wisdom RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,4,Butte RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,6,Madison RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,7,Jefferson RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,8,Pintler RD,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,9,Philipsburg RD (Legacy),MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,10,,MT
+1,Northern Region,2,Beaverhead-Deerlodge NF,30,,MT
+1,Northern Region,3,Bitterroot NF,0,Supervisor’s Office,MT
+1,Northern Region,3,Bitterroot NF,1,Stevensville RD,MT
+1,Northern Region,3,Bitterroot NF,2,Darby RD,MT
+1,Northern Region,3,Bitterroot NF,3,Sula RD,ID
+1,Northern Region,3,Bitterroot NF,3,Sula RD,MT
+1,Northern Region,3,Bitterroot NF,4,West Fork RD,ID
+1,Northern Region,3,Bitterroot NF,4,West Fork RD,MT
+1,Northern Region,3,Bitterroot NF,5,,MT
+1,Northern Region,3,Bitterroot NF,6,Trapper Creek Job Corp,MT
+1,Northern Region,3,Bitterroot NF,8,Anaconda Job Corp,MT
+1,Northern Region,4,Idaho Panhandle NF,0,Supervisor’s Office,ID
+1,Northern Region,4,Idaho Panhandle NF,1,Wallace RD,ID
+1,Northern Region,4,Idaho Panhandle NF,2,Avery RD,ID
+1,Northern Region,4,Idaho Panhandle NF,3,Fernan RD,ID
+1,Northern Region,4,Idaho Panhandle NF,4,Saint Maries RD,ID
+1,Northern Region,4,Idaho Panhandle NF,6,Sandpoint RD,ID
+1,Northern Region,4,Idaho Panhandle NF,6,Sandpoint RD,MT
+1,Northern Region,4,Idaho Panhandle NF,7,Bonners Ferry RD,ID
+1,Northern Region,4,Idaho Panhandle NF,7,Bonners Ferry RD,MT
+1,Northern Region,4,Idaho Panhandle NF,8,Priest Lake RD,ID
+1,Northern Region,4,Idaho Panhandle NF,8,Priest Lake RD,WA
+1,Northern Region,4,Idaho Panhandle NF,10,Coeur D'Alene Nursery,ID
+1,Northern Region,5,Clearwater NF,0,Supervisor’s Office,ID
+1,Northern Region,5,Clearwater NF,1,Pierce RD,ID
+1,Northern Region,5,Clearwater NF,2,Palouse RD,ID
+1,Northern Region,5,Clearwater NF,3,North Fork RD,ID
+1,Northern Region,5,Clearwater NF,5,Lochsa RD,ID
+1,Northern Region,5,Clearwater NF,6,Powell RD,ID
+1,Northern Region,8,Custer NF,0,Supervisor’s Office,MT
+1,Northern Region,8,Custer NF,1,Sheyenne RD (Legacy),ND
+1,Northern Region,8,Custer NF,1,Sheyenne RD (Legacy),ND
+1,Northern Region,8,Custer NF,2,Beartooth RD,MT
+1,Northern Region,8,Custer NF,3,Sioux RD,MT
+1,Northern Region,8,Custer NF,3,Sioux RD,SD
+1,Northern Region,8,Custer NF,4,Ashland RD,MT
+1,Northern Region,8,Custer NF,5,,MT
+1,Northern Region,8,Custer NF,6,Grand River RD (Legacy),ND
+1,Northern Region,8,Custer NF,6,Grand River RD (Legacy),ND
+1,Northern Region,8,Custer NF,6,Grand River RD (Legacy),SD
+1,Northern Region,8,Custer NF,7,Medora RD (Legacy),ND
+1,Northern Region,8,Custer NF,8,Mckenzie RD (Legacy),ND
+1,Northern Region,10,Flathead NF,0,Supervisor’s Office,MT
+1,Northern Region,10,Flathead NF,1,Swan Lake RD,MT
+1,Northern Region,10,Flathead NF,4,Spotted Bear RD,MT
+1,Northern Region,10,Flathead NF,6,Hungry Horse RD,MT
+1,Northern Region,10,Flathead NF,7,Glacier View RD,MT
+1,Northern Region,10,Flathead NF,8,Tally Lake RD,MT
+1,Northern Region,11,Gallatin NF,0,Supervisor’s Office,MT
+1,Northern Region,11,Gallatin NF,1,Big Timber RD,MT
+1,Northern Region,11,Gallatin NF,2,Livingston RD,MT
+1,Northern Region,11,Gallatin NF,3,Gardiner RD,MT
+1,Northern Region,11,Gallatin NF,5,,MT
+1,Northern Region,11,Gallatin NF,6,Bozeman RD,MT
+1,Northern Region,11,Gallatin NF,7,Hebgen Lake RD,MT
+1,Northern Region,12,Helena NF,0,Supervisor’s Office,MT
+1,Northern Region,12,Helena NF,1,Townsend RD,MT
+1,Northern Region,12,Helena NF,2,Helena RD,MT
+1,Northern Region,12,Helena NF,4,Lincoln RD,MT
+1,Northern Region,12,Helena NF,6,,MT
+1,Northern Region,12,Helena NF,7,,MT
+1,Northern Region,14,Kootenai NF,0,Supervisor’s Office,MT
+1,Northern Region,14,Kootenai NF,1,Rexford RD,MT
+1,Northern Region,14,Kootenai NF,2,,MT
+1,Northern Region,14,Kootenai NF,3,Fortine RD,MT
+1,Northern Region,14,Kootenai NF,4,Three Rivers RD,ID
+1,Northern Region,14,Kootenai NF,4,Three Rivers RD,MT
+1,Northern Region,14,Kootenai NF,5,Libby RD,MT
+1,Northern Region,14,Kootenai NF,6,,MT
+1,Northern Region,14,Kootenai NF,7,Cabinet RD,ID
+1,Northern Region,14,Kootenai NF,7,Cabinet RD,MT
+1,Northern Region,15,Lewis and Clark NF,0,Supervisor’s Office,MT
+1,Northern Region,15,Lewis and Clark NF,1,Rocky Mountain RD,MT
+1,Northern Region,15,Lewis and Clark NF,3,Belt Creek RD,MT
+1,Northern Region,15,Lewis and Clark NF,4,Judith RD,MT
+1,Northern Region,15,Lewis and Clark NF,6,Musselshell RD,MT
+1,Northern Region,15,Lewis and Clark NF,7,White Sulphur Sprg RD,MT
+1,Northern Region,15,Lewis and Clark NF,8,Lewis and Clark Interp Center,MT
+1,Northern Region,15,Lewis and Clark NF,15,,MT
+1,Northern Region,15,Lewis and Clark NF,30,,MT
+1,Northern Region,16,Lolo NF,0,Supervisor’s Office,MT
+1,Northern Region,16,Lolo NF,3,Missoula RD,MT
+1,Northern Region,16,Lolo NF,4,Ninemile RD,MT
+1,Northern Region,16,Lolo NF,5,Plains/Thompson Falls RD,MT
+1,Northern Region,16,Lolo NF,6,Seeley RD,MT
+1,Northern Region,16,Lolo NF,7,Superior RD,MT
+1,Northern Region,16,Lolo NF,8,Thompson Falls RD (Legacy),MT
+1,Northern Region,16,Lolo NF,9,,MT
+1,Northern Region,16,Lolo NF,13,,MT
+1,Northern Region,17,Nez Perce NF,0,Supervisor’s Office,ID
+1,Northern Region,17,Nez Perce NF,1,Salmon River RD,ID
+1,Northern Region,17,Nez Perce NF,3,,ID
+1,Northern Region,17,Nez Perce NF,4,Clearwater RD,ID
+1,Northern Region,17,Nez Perce NF,5,Red River RD,ID
+1,Northern Region,17,Nez Perce NF,6,Moose Creek RD,ID
+1,Northern Region,17,Nez Perce NF,7,Selway RD,ID
+1,Northern Region,17,Nez Perce NF,8,Elk City RD,ID
+1,Northern Region,18,Dakota Prairie Grasslands,0,Supervisor’s Office,ND
+1,Northern Region,18,Dakota Prairie Grasslands,1,Sheyenne RD,ND
+1,Northern Region,18,Dakota Prairie Grasslands,6,Grand River RD,SD
+1,Northern Region,18,Dakota Prairie Grasslands,7,Medora RD,ND
+1,Northern Region,18,Dakota Prairie Grasslands,8,Mckenzie RD,ND
+1,Northern Region,23,,,,MT
+1,Northern Region,24,,,,MT
+1,Northern Region,52,Aerial Fire Depot,,,MT
+1,Northern Region,56,R1 Regional Office,,,MT
+1,Northern Region,57,R1 Regional Products & Service,,,MT
+2,Rocky Mountain Region,,,,,CO
+2,Rocky Mountain Region,2,Bighorn NF,0,Supervisor’s Office,WY
+2,Rocky Mountain Region,2,Bighorn NF,1,Buffalo RD,WY
+2,Rocky Mountain Region,2,Bighorn NF,3,Medicine Wheel RD,WY
+2,Rocky Mountain Region,2,Bighorn NF,4,Paintrock RD,WY
+2,Rocky Mountain Region,2,Bighorn NF,5,Tensleep RD,WY
+2,Rocky Mountain Region,2,Bighorn NF,6,Tongue RD,WY
+2,Rocky Mountain Region,2,Bighorn NF,9,,WY
+2,Rocky Mountain Region,3,Black Hills NF,0,Supervisor’s Office,SD
+2,Rocky Mountain Region,3,Black Hills NF,1,Bearlodge RD,WY
+2,Rocky Mountain Region,3,Black Hills NF,3,Hell Canyon RD,SD
+2,Rocky Mountain Region,3,Black Hills NF,3,Hell Canyon RD,WY
+2,Rocky Mountain Region,3,Black Hills NF,4,Elk Mtn RD (Legacy),SD
+2,Rocky Mountain Region,3,Black Hills NF,4,Elk Mtn RD (Legacy),WY
+2,Rocky Mountain Region,3,Black Hills NF,6,Mystic RD,SD
+2,Rocky Mountain Region,3,Black Hills NF,7,,SD
+2,Rocky Mountain Region,3,Black Hills NF,8,Northern Hills RD,SD
+2,Rocky Mountain Region,3,Black Hills NF,9,Pactola RD (Legacy),SD
+2,Rocky Mountain Region,3,Black Hills NF,11,Spearfish RD (Legacy),SD
+2,Rocky Mountain Region,3,Black Hills NF,11,Spearfish RD (Legacy),WY
+2,Rocky Mountain Region,3,Black Hills NF,14,Boxelder Job Corp,SD
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,1,,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,2,Grand Valley RD,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,5,Norwood RD,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,6,Ouray RD,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,7,Gunnison RD,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,8,Paonia RD,CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,9,Taylor River RD (Legacy),CO
+2,Rocky Mountain Region,4,Grand Mesa-Uncomp-Gunnison NFs,95,,CO
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,0,Supervisor’s Office,WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,1,Yampa RD,CO
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,2,Brush Creek-Hayden RD,WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,3,Hahns Pk-Bears Ears RD,CO
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,4,Parks RD,WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,5,Laramie RD,WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,6,Laramie Peak RD (Legacy),WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,9,Douglas-Thunder Basin RD,WY
+2,Rocky Mountain Region,6,Medicine Bow-Routt NF,11,,
+2,Rocky Mountain Region,7,Nebraska NF,0,Supervisor’s Office,NE
+2,Rocky Mountain Region,7,Nebraska NF,1,Bessey RD,NE
+2,Rocky Mountain Region,7,Nebraska NF,2,Pine Ridge RD,NE
+2,Rocky Mountain Region,7,Nebraska NF,3,Bessey Nursery,NE
+2,Rocky Mountain Region,7,Nebraska NF,4,Pine Ridge Civilian Consv Center,NE
+2,Rocky Mountain Region,7,Nebraska NF,5,Fall River RD,SD
+2,Rocky Mountain Region,7,Nebraska NF,6,Wall RD,SD
+2,Rocky Mountain Region,7,Nebraska NF,31,,NE
+2,Rocky Mountain Region,7,Nebraska NF,47,,NE
+2,Rocky Mountain Region,9,Rio Grande NF,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,9,Rio Grande NF,1,,CO
+2,Rocky Mountain Region,9,Rio Grande NF,2,,CO
+2,Rocky Mountain Region,9,Rio Grande NF,3,Conejos Peak RD,CO
+2,Rocky Mountain Region,9,Rio Grande NF,4,Divide RD,CO
+2,Rocky Mountain Region,9,Rio Grande NF,5,Mancos/Dolores RD (Legacy),CO
+2,Rocky Mountain Region,9,Rio Grande NF,6,Pagosa RD (Legacy),CO
+2,Rocky Mountain Region,9,Rio Grande NF,7,Saguache RD,CO
+2,Rocky Mountain Region,9,Rio Grande NF,8,Columbine RD (Legacy),CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,1,Boulder RD,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,4,Estes-Poudre RD (Legacy),CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,5,Canyon Lakes RD,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,6,Pawnee NG,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,7,Clear Creek RD,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,8,Sulphur RD,CO
+2,Rocky Mountain Region,10,Araphao-Roosevelt NF,97,,CO
+2,Rocky Mountain Region,11,Routt NF (Legacy),1,,CO
+2,Rocky Mountain Region,11,Routt NF (Legacy),3,,CO
+2,Rocky Mountain Region,11,Routt NF (Legacy),4,,CO
+2,Rocky Mountain Region,11,Routt NF (Legacy),5,,CO
+2,Rocky Mountain Region,11,Routt NF (Legacy),6,,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,1,Leadville RD,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,2,Salida RD,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,3,San Carlos RD,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,6,Comanche NG,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,7,Cimarron NG,KS
+2,Rocky Mountain Region,12,Pike-San Isabel NF,9,Pikes Peak RD,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,10,South Park RD,CO
+2,Rocky Mountain Region,12,Pike-San Isabel NF,11,South Platte RD,CO
+2,Rocky Mountain Region,13,San Juan NF,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,13,San Juan NF,1,,CO
+2,Rocky Mountain Region,13,San Juan NF,2,,CO
+2,Rocky Mountain Region,13,San Juan NF,5,Mancos-Dolores RD,CO
+2,Rocky Mountain Region,13,San Juan NF,6,Pagosa RD,CO
+2,Rocky Mountain Region,13,San Juan NF,8,Columbine RD,CO
+2,Rocky Mountain Region,14,Shoshone NF,0,Supervisor’s Office,WY
+2,Rocky Mountain Region,14,Shoshone NF,1,Clarks Fork RD,WY
+2,Rocky Mountain Region,14,Shoshone NF,2,Greybull RD,WY
+2,Rocky Mountain Region,14,Shoshone NF,3,Washakie RD,WY
+2,Rocky Mountain Region,14,Shoshone NF,4,Wapiti RD,WY
+2,Rocky Mountain Region,14,Shoshone NF,5,Wind River RD,WY
+2,Rocky Mountain Region,15,White River NF,0,Supervisor’s Office,CO
+2,Rocky Mountain Region,15,White River NF,1,West Zone/Aspen RD,CO
+2,Rocky Mountain Region,15,White River NF,2,West Zone/Blanco RD,CO
+2,Rocky Mountain Region,15,White River NF,3,West Zone/Sopris RD,CO
+2,Rocky Mountain Region,15,White River NF,4,East Zone/Eagle RD,CO
+2,Rocky Mountain Region,15,White River NF,7,East Zone/Holy Cross RD,CO
+2,Rocky Mountain Region,15,White River NF,8,West Zone/Rifle RD,CO
+2,Rocky Mountain Region,15,White River NF,10,East Zone/Dillon RD,CO
+2,Rocky Mountain Region,15,White River NF,97,,CO
+2,Rocky Mountain Region,16,R2 Regional Projects/Services,,,CO
+2,Rocky Mountain Region,31,R2 Regional Office,,,CO
+3,Southwest Region,,,,,NM
+3,Southwest Region,1,Apache-Sitgreaves NF,0,Supervisor’s Office,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,1,Alpine RD,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,2,Black Mesa RD,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,3,Clifton RD,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,4,Chevelon RD (Legacy),AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,5,Heber RD (Legacy),AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,6,Springerville RD,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,7,Lakeside RD,AZ
+3,Southwest Region,1,Apache-Sitgreaves NF,8,,AZ
+3,Southwest Region,2,Carson NF,0,Supervisor’s Office,NM
+3,Southwest Region,2,Carson NF,1,Canjilon RD,NM
+3,Southwest Region,2,Carson NF,2,El Rito RD,NM
+3,Southwest Region,2,Carson NF,3,Jicarilla RD,NM
+3,Southwest Region,2,Carson NF,4,Camino Real RD,NM
+3,Southwest Region,2,Carson NF,5,,NM
+3,Southwest Region,2,Carson NF,6,Tres Piedras RD,NM
+3,Southwest Region,2,Carson NF,7,Questa RD,NM
+3,Southwest Region,3,Cibola NF,0,Supervisor’s Office,NM
+3,Southwest Region,3,Cibola NF,1,,NM
+3,Southwest Region,3,Cibola NF,2,Mount Taylor RD,NM
+3,Southwest Region,3,Cibola NF,3,Magdalena RD,NM
+3,Southwest Region,3,Cibola NF,4,Mountainair RD,NM
+3,Southwest Region,3,Cibola NF,5,Sandia RD,NM
+3,Southwest Region,3,Cibola NF,6,Black Kettle Nat'L Grasslands,OK
+3,Southwest Region,3,Cibola NF,6,Black Kettle Nat'L Grasslands,TX
+3,Southwest Region,3,Cibola NF,7,Kiowa/Rita Blanca Nal'L Grasslands,NM
+3,Southwest Region,3,Cibola NF,8,Rita Blanca RD (Legacy),OK
+3,Southwest Region,3,Cibola NF,8,Rita Blanca RD (Legacy),TX
+3,Southwest Region,4,Coconino NF,0,Supervisor’s Office,AZ
+3,Southwest Region,4,Coconino NF,1,Beaver Creek RD (Legacy),AZ
+3,Southwest Region,4,Coconino NF,2,Peaks RD,AZ
+3,Southwest Region,4,Coconino NF,3,Flagstaff RD (Legacy),AZ
+3,Southwest Region,4,Coconino NF,4,Long Valley RD (Legacy),AZ
+3,Southwest Region,4,Coconino NF,5,Mormon Lake RD,AZ
+3,Southwest Region,4,Coconino NF,6,Red Rock RD,AZ
+3,Southwest Region,4,Coconino NF,7,Mogollon Rim RD,AZ
+3,Southwest Region,5,Coronado NF,0,Supervisor’s Office,AZ
+3,Southwest Region,5,Coronado NF,1,Douglas RD,AZ
+3,Southwest Region,5,Coronado NF,1,Douglas RD,NM
+3,Southwest Region,5,Coronado NF,2,Nogales RD,AZ
+3,Southwest Region,5,Coronado NF,3,Sierra Vista RD,AZ
+3,Southwest Region,5,Coronado NF,4,Safford RD,AZ
+3,Southwest Region,5,Coronado NF,5,Santa Catalina RD,AZ
+3,Southwest Region,5,Coronado NF,6,,AZ
+3,Southwest Region,6,Gila NF,0,Supervisor’s Office,NM
+3,Southwest Region,6,Gila NF,2,Black Range RD,NM
+3,Southwest Region,6,Gila NF,3,Quemado RD,NM
+3,Southwest Region,6,Gila NF,4,Glenwood RD,NM
+3,Southwest Region,6,Gila NF,5,Wilderness RD,NM
+3,Southwest Region,6,Gila NF,6,Reserve RD,NM
+3,Southwest Region,6,Gila NF,7,Silver City RD,NM
+3,Southwest Region,6,Gila NF,8,,NM
+3,Southwest Region,6,Gila NF,9,,NM
+3,Southwest Region,7,Kaibab NF,0,Supervisor’s Office,AZ
+3,Southwest Region,7,Kaibab NF,1,Williams RD,AZ
+3,Southwest Region,7,Kaibab NF,2,Chalender RD (Legacy),AZ
+3,Southwest Region,7,Kaibab NF,3,North Kaibab RD,AZ
+3,Southwest Region,7,Kaibab NF,4,Tusayan RD,AZ
+3,Southwest Region,7,Kaibab NF,5,,AZ
+3,Southwest Region,8,Lincoln NF,0,Supervisor’s Office,NM
+3,Southwest Region,8,Lincoln NF,1,Smokey Bear RD,NM
+3,Southwest Region,8,Lincoln NF,2,Sacramento RD,NM
+3,Southwest Region,8,Lincoln NF,3,Guadalupe RD,NM
+3,Southwest Region,8,Lincoln NF,4,,NM
+3,Southwest Region,9,Prescott NF,0,Supervisor’s Office,AZ
+3,Southwest Region,9,Prescott NF,1,Chino Valley RD,AZ
+3,Southwest Region,9,Prescott NF,2,Prescott Fire Center,AZ
+3,Southwest Region,9,Prescott NF,3,Bradshaw RD,AZ
+3,Southwest Region,9,Prescott NF,5,Verde RD,AZ
+3,Southwest Region,10,Santa Fe NF,0,Supervisor’s Office,NM
+3,Southwest Region,10,Santa Fe NF,1,Coyote RD,NM
+3,Southwest Region,10,Santa Fe NF,2,Cuba RD,NM
+3,Southwest Region,10,Santa Fe NF,3,Jemez RD,NM
+3,Southwest Region,10,Santa Fe NF,4,Las Vegas RD (Legacy),NM
+3,Southwest Region,10,Santa Fe NF,5,Pecos-Las Vegas RD,NM
+3,Southwest Region,10,Santa Fe NF,5,Pecos/Las Vegas RD,NM
+3,Southwest Region,10,Santa Fe NF,6,Espanola RD,NM
+3,Southwest Region,10,Santa Fe NF,8,,NM
+3,Southwest Region,10,Santa Fe NF,96,,NM
+3,Southwest Region,12,Tonto NF,0,Supervisor’s Office,AZ
+3,Southwest Region,12,Tonto NF,1,Cave Creek RD,AZ
+3,Southwest Region,12,Tonto NF,2,Globe RD,AZ
+3,Southwest Region,12,Tonto NF,3,Mesa RD,AZ
+3,Southwest Region,12,Tonto NF,4,Payson RD,AZ
+3,Southwest Region,12,Tonto NF,5,Pleasant Valley RD,AZ
+3,Southwest Region,12,Tonto NF,6,Tonto Basin RD,AZ
+3,Southwest Region,16,R3 Regional Office,,,AZ
+3,Southwest Region,19,Valles Caldera Natl Preserve,,,NM
+3,Southwest Region,97,ISO,,,NM
+3,Southwest Region,98,ASC,,,NM
+3,Southwest Region,99,HRM,,,NM
+4,Intermountain Region,,,,,UT
+4,Intermountain Region,1,Ashley NF,0,Supervisor’s Office,UT
+4,Intermountain Region,1,Ashley NF,1,Flaming Gorge RD,UT
+4,Intermountain Region,1,Ashley NF,1,Flaming Gorge RD,WY
+4,Intermountain Region,1,Ashley NF,2,Vernal RD,UT
+4,Intermountain Region,1,Ashley NF,3,Roosevelt RD,UT
+4,Intermountain Region,1,Ashley NF,4,Duchesne RD,UT
+4,Intermountain Region,2,Boise NF,0,Supervisor’s Office,ID
+4,Intermountain Region,2,Boise NF,1,Mountain Home RD,ID
+4,Intermountain Region,2,Boise NF,2,Boise RD (Legacy),ID
+4,Intermountain Region,2,Boise NF,3,Idaho City RD,ID
+4,Intermountain Region,2,Boise NF,4,Cascade RD,ID
+4,Intermountain Region,2,Boise NF,5,Lowman RD,ID
+4,Intermountain Region,2,Boise NF,6,Emmett RD,ID
+4,Intermountain Region,2,Boise NF,7,Lucky Peak Nursery,ID
+4,Intermountain Region,2,Boise NF,16,,ID
+4,Intermountain Region,3,Bridger-Teton NF,0,Supervisor’s Office,WY
+4,Intermountain Region,3,Bridger-Teton NF,1,Kemmerer RD,WY
+4,Intermountain Region,3,Bridger-Teton NF,2,Big Piney RD,WY
+4,Intermountain Region,3,Bridger-Teton NF,3,Greys River RD,WY
+4,Intermountain Region,3,Bridger-Teton NF,4,Jackson RD,WY
+4,Intermountain Region,3,Bridger-Teton NF,5,Gros Ventre RD (Legacy),WY
+4,Intermountain Region,3,Bridger-Teton NF,6,Buffalo RD,WY
+4,Intermountain Region,3,Bridger-Teton NF,7,Pinedale RD,WY
+4,Intermountain Region,5,Caribou NF (Legacy),1,,ID
+4,Intermountain Region,5,Caribou NF (Legacy),2,Soda Springs RD (Legacy),ID
+4,Intermountain Region,5,Caribou NF (Legacy),2,Soda Springs RD (Legacy),WY
+4,Intermountain Region,5,Caribou NF (Legacy),3,Montpelier-Cach RD (Legacy),ID
+4,Intermountain Region,5,Caribou NF (Legacy),4,Malad RD (Legacy),ID
+4,Intermountain Region,5,Caribou NF (Legacy),4,Malad RD (Legacy),UT
+4,Intermountain Region,5,Caribou NF (Legacy),5,Pocatello RD (Legacy),ID
+4,Intermountain Region,5,Caribou NF (Legacy),9,,ID
+4,Intermountain Region,5,Caribou NF (Legacy),52,,ID
+4,Intermountain Region,6,Challis NF (Legacy),0,,ID
+4,Intermountain Region,6,Challis NF (Legacy),1,,ID
+4,Intermountain Region,6,Challis NF (Legacy),2,,ID
+4,Intermountain Region,6,Challis NF (Legacy),3,,ID
+4,Intermountain Region,6,Challis NF (Legacy),4,,ID
+4,Intermountain Region,6,Challis NF (Legacy),5,,ID
+4,Intermountain Region,6,Challis NF (Legacy),7,,ID
+4,Intermountain Region,7,Dixie NF,0,Supervisor’s Office,UT
+4,Intermountain Region,7,Dixie NF,1,Pine Valley RD,UT
+4,Intermountain Region,7,Dixie NF,2,Cedar City RD,UT
+4,Intermountain Region,7,Dixie NF,3,Powell RD,UT
+4,Intermountain Region,7,Dixie NF,4,Escalante RD,UT
+4,Intermountain Region,7,Dixie NF,5,Teasdale RD,UT
+4,Intermountain Region,7,Dixie NF,7,,UT
+4,Intermountain Region,8,Fishlake NF,0,Supervisor’s Office,UT
+4,Intermountain Region,8,Fishlake NF,1,Fillmore RD,UT
+4,Intermountain Region,8,Fishlake NF,2,Loa RD,UT
+4,Intermountain Region,8,Fishlake NF,3,Beaver RD,UT
+4,Intermountain Region,8,Fishlake NF,4,Richfield RD,UT
+4,Intermountain Region,8,Fishlake NF,5,,UT
+4,Intermountain Region,9,Humboldt NF (Legacy),1,Mountain City RD (Legacy),NV
+4,Intermountain Region,9,Humboldt NF (Legacy),2,Ruby Mountains RD (Legacy),NV
+4,Intermountain Region,9,Humboldt NF (Legacy),3,Jarbidge RD (Legacy),NV
+4,Intermountain Region,9,Humboldt NF (Legacy),4,Ely RD (Legacy),NV
+4,Intermountain Region,9,Humboldt NF (Legacy),5,Santa Rosa RD (Legacy),NV
+4,Intermountain Region,9,Humboldt NF (Legacy),8,,NV
+4,Intermountain Region,9,Humboldt NF (Legacy),9,,NV
+4,Intermountain Region,9,Humboldt NF (Legacy),10,,NV
+4,Intermountain Region,9,Humboldt NF (Legacy),12,,NV
+4,Intermountain Region,10,Manti-LaSal NF,0,Supervisor’s Office,UT
+4,Intermountain Region,10,Manti-LaSal NF,1,Sanpete RD,UT
+4,Intermountain Region,10,Manti-LaSal NF,2,Ferron RD,UT
+4,Intermountain Region,10,Manti-LaSal NF,3,Price RD,UT
+4,Intermountain Region,10,Manti-LaSal NF,4,Moab RD,CO
+4,Intermountain Region,10,Manti-LaSal NF,4,Moab RD,UT
+4,Intermountain Region,10,Manti-LaSal NF,5,Monticello RD,UT
+4,Intermountain Region,12,Payette NF,0,Supervisor’s Office,ID
+4,Intermountain Region,12,Payette NF,1,Council RD,ID
+4,Intermountain Region,12,Payette NF,2,Weiser RD,ID
+4,Intermountain Region,12,Payette NF,3,New Meadows RD,ID
+4,Intermountain Region,12,Payette NF,4,Mccall RD,ID
+4,Intermountain Region,12,Payette NF,5,Big Creek RD,ID
+4,Intermountain Region,12,Payette NF,6,Krassel RD,ID
+4,Intermountain Region,12,Payette NF,13,,ID
+4,Intermountain Region,13,Salmon-Challis NF,0,Supervisor’s Office,ID
+4,Intermountain Region,13,Salmon-Challis NF,1,Salmon-Cobalt RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,2,Challis RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,3,Yankee Fork RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,4,Lost River RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,5,Salmon RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,6,Middle Fork RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,7,North Fork RD,ID
+4,Intermountain Region,13,Salmon-Challis NF,8,Leadore RD,ID
+4,Intermountain Region,14,Sawtooth NF,0,Supervisor’s Office,ID
+4,Intermountain Region,14,Sawtooth NF,1,Minidoka RD,ID
+4,Intermountain Region,14,Sawtooth NF,1,Minidoka RD,UT
+4,Intermountain Region,14,Sawtooth NF,2,Minidoka RD,ID
+4,Intermountain Region,14,Sawtooth NF,3,Ketchum RD,ID
+4,Intermountain Region,14,Sawtooth NF,4,Sawtooth NRA,ID
+4,Intermountain Region,14,Sawtooth NF,5,Fairfield RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,0,Supervisor’s Office,ID
+4,Intermountain Region,15,Caribou-Targhee NF,1,Dubois RD (Legacy),ID
+4,Intermountain Region,15,Caribou-Targhee NF,2,Island Park RD (Legacy),ID
+4,Intermountain Region,15,Caribou-Targhee NF,2,Island Park RD (Legacy),WY
+4,Intermountain Region,15,Caribou-Targhee NF,3,Ashton RD (Legacy),ID
+4,Intermountain Region,15,Caribou-Targhee NF,3,Ashton RD (Legacy),WY
+4,Intermountain Region,15,Caribou-Targhee NF,4,Palisades RD (Legacy),ID
+4,Intermountain Region,15,Caribou-Targhee NF,4,Palisades RD (Legacy),UT
+4,Intermountain Region,15,Caribou-Targhee NF,4,Palisades RD (Legacy),WY
+4,Intermountain Region,15,Caribou-Targhee NF,5,Teton Basin RD (Legacy),ID
+4,Intermountain Region,15,Caribou-Targhee NF,5,Teton Basin RD (Legacy),WY
+4,Intermountain Region,15,Caribou-Targhee NF,51,Dubois RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,52,Ashton/Island Park RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,52,Ashton/Island Park RD,WY
+4,Intermountain Region,15,Caribou-Targhee NF,53,Montpelier RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,54,Palisades RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,54,Palisades RD,UT
+4,Intermountain Region,15,Caribou-Targhee NF,54,Palisades RD,WY
+4,Intermountain Region,15,Caribou-Targhee NF,55,Soda Springs RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,55,Soda Springs RD,WY
+4,Intermountain Region,15,Caribou-Targhee NF,56,Teton Basin RD,ID
+4,Intermountain Region,15,Caribou-Targhee NF,56,Teton Basin RD,WY
+4,Intermountain Region,15,Caribou-Targhee NF,57,Westside RD,ID
+4,Intermountain Region,17,Humboldt-Toiyabe NF,0,Supervisor’s Office,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,1,Carson RD,CA
+4,Intermountain Region,17,Humboldt-Toiyabe NF,1,Carson RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,2,Bridgeport RD,CA
+4,Intermountain Region,17,Humboldt-Toiyabe NF,2,Bridgeport RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,3,Austin RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,4,Tonopah RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,5,Spring Mountains NRA,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,6,Mountain City RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,7,Ruby Mountains RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,8,Jarbidge RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,9,Ely RD,NV
+4,Intermountain Region,17,Humboldt-Toiyabe NF,10,Santa Rosa RD,NV
+4,Intermountain Region,18,Uinta NF (Legacy),1,Heber RD (Legacy),UT
+4,Intermountain Region,18,Uinta NF (Legacy),2,Pleasant Grove RD (Legacy),UT
+4,Intermountain Region,18,Uinta NF (Legacy),3,Spanish Fk.Neph RD (Legacy),UT
+4,Intermountain Region,18,Uinta NF (Legacy),4,,UT
+4,Intermountain Region,18,Uinta NF (Legacy),7,,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,0,Supervisor’s Office,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,1,Salt Lake RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,2,Pleasant Grove RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,3,Heber-Kamas RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,4,Evanston-Mountain View RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,4,Evanston-Mountain View RD,WY
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,5,Mountain View RD (Legacy),UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,5,Mountain View RD (Legacy),WY
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,6,Ogden RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,7,Logan RD,UT
+4,Intermountain Region,19,Uinta-Wasatch-Cache NF,8,Spanish Fork RD,UT
+4,Intermountain Region,60,R4 Regional Office,,,UT
+5,Pacific Southwest Region,,,,,CA
+5,Pacific Southwest Region,1,Angeles NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,1,Angeles NF,51,Los Angeles River RD,CA
+5,Pacific Southwest Region,1,Angeles NF,52,San Gabriel River RD,CA
+5,Pacific Southwest Region,1,Angeles NF,53,Santa Clara/Mojave Rivers RD,CA
+5,Pacific Southwest Region,1,Angeles NF,54,Valyermo RD (Legacy),CA
+5,Pacific Southwest Region,1,Angeles NF,55,Tujunga RD (Legacy),CA
+5,Pacific Southwest Region,2,Cleveland NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,2,Cleveland NF,1,,CA
+5,Pacific Southwest Region,2,Cleveland NF,52,Trabuco RD,CA
+5,Pacific Southwest Region,2,Cleveland NF,53,Palomar RD,CA
+5,Pacific Southwest Region,2,Cleveland NF,54,Descanso RD,CA
+5,Pacific Southwest Region,3,Eldorado NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,3,Eldorado NF,51,Amador RD,CA
+5,Pacific Southwest Region,3,Eldorado NF,53,Georgetown RD,CA
+5,Pacific Southwest Region,3,Eldorado NF,55,Pacific RD,CA
+5,Pacific Southwest Region,3,Eldorado NF,56,Placerville RD,CA
+5,Pacific Southwest Region,3,Eldorado NF,57,Placerville Nursery,CA
+5,Pacific Southwest Region,4,Inyo NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,4,Inyo NF,51,Mono RD,CA
+5,Pacific Southwest Region,4,Inyo NF,51,Mono RD,NV
+5,Pacific Southwest Region,4,Inyo NF,52,Mammoth RD,CA
+5,Pacific Southwest Region,4,Inyo NF,53,White Mountain RD,CA
+5,Pacific Southwest Region,4,Inyo NF,53,White Mountain RD,NV
+5,Pacific Southwest Region,4,Inyo NF,54,Mount Whitney RD,CA
+5,Pacific Southwest Region,5,Klamath NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,5,Klamath NF,51,Oak Knoll RD,CA
+5,Pacific Southwest Region,5,Klamath NF,51,Oak Knoll RD,OR
+5,Pacific Southwest Region,5,Klamath NF,52,Happy Camp RD,CA
+5,Pacific Southwest Region,5,Klamath NF,53,,CA
+5,Pacific Southwest Region,5,Klamath NF,54,Salmon River RD,CA
+5,Pacific Southwest Region,5,Klamath NF,55,Scott River RD,CA
+5,Pacific Southwest Region,5,Klamath NF,57,Goosenest RD,CA
+5,Pacific Southwest Region,5,Klamath NF,58,Orleans/Ukonom RD,CA
+5,Pacific Southwest Region,6,Lassen NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,6,Lassen NF,50,,CA
+5,Pacific Southwest Region,6,Lassen NF,51,Almanor RD,CA
+5,Pacific Southwest Region,6,Lassen NF,53,Hat Creek RD,CA
+5,Pacific Southwest Region,6,Lassen NF,58,Eagle Lake RD,CA
+5,Pacific Southwest Region,7,Los Padres NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,7,Los Padres NF,51,Monterey RD,CA
+5,Pacific Southwest Region,7,Los Padres NF,53,Santa Lucia RD,CA
+5,Pacific Southwest Region,7,Los Padres NF,54,Santa Barbara RD,CA
+5,Pacific Southwest Region,7,Los Padres NF,55,Ojai RD,CA
+5,Pacific Southwest Region,7,Los Padres NF,57,Mt. Pinos RD,CA
+5,Pacific Southwest Region,8,Mendocino NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,8,Mendocino NF,45,,CA
+5,Pacific Southwest Region,8,Mendocino NF,51,Corning RD (Legacy),CA
+5,Pacific Southwest Region,8,Mendocino NF,52,Genetic Resource Center-Chico,CA
+5,Pacific Southwest Region,8,Mendocino NF,53,Grindstone RD,CA
+5,Pacific Southwest Region,8,Mendocino NF,54,Upper Lake RD,CA
+5,Pacific Southwest Region,8,Mendocino NF,56,Covelo RD,CA
+5,Pacific Southwest Region,9,Modoc NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,9,Modoc NF,53,Warner Mountain RD,CA
+5,Pacific Southwest Region,9,Modoc NF,54,Big Valley RD,CA
+5,Pacific Southwest Region,9,Modoc NF,55,Devils Garden RD,CA
+5,Pacific Southwest Region,9,Modoc NF,56,Doublehead RD,CA
+5,Pacific Southwest Region,10,Six Rivers NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,10,Six Rivers NF,1,,CA
+5,Pacific Southwest Region,10,Six Rivers NF,51,Gasquet RD,CA
+5,Pacific Southwest Region,10,Six Rivers NF,52,Orleans RD,CA
+5,Pacific Southwest Region,10,Six Rivers NF,53,Lower Trinity RD,CA
+5,Pacific Southwest Region,10,Six Rivers NF,54,Mad River RD,CA
+5,Pacific Southwest Region,10,Six Rivers NF,58,,CA
+5,Pacific Southwest Region,11,Plumas NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,11,Plumas NF,1,Beckwourth RD,CA
+5,Pacific Southwest Region,11,Plumas NF,2,Mt. Hough RD,CA
+5,Pacific Southwest Region,11,Plumas NF,3,Feather RD,CA
+5,Pacific Southwest Region,11,Plumas NF,4,,CA
+5,Pacific Southwest Region,11,Plumas NF,5,,CA
+5,Pacific Southwest Region,11,Plumas NF,51,,CA
+5,Pacific Southwest Region,11,Plumas NF,52,,CA
+5,Pacific Southwest Region,11,Plumas NF,53,,CA
+5,Pacific Southwest Region,11,Plumas NF,54,,CA
+5,Pacific Southwest Region,11,Plumas NF,55,,CA
+5,Pacific Southwest Region,11,Plumas NF,56,,CA
+5,Pacific Southwest Region,12,San Bernardino NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,12,San Bernardino NF,51,Arrowhead RD,CA
+5,Pacific Southwest Region,12,San Bernardino NF,52,Big Bear RD,CA
+5,Pacific Southwest Region,12,San Bernardino NF,53,Cajon RD,CA
+5,Pacific Southwest Region,12,San Bernardino NF,54,San Gorgonio RD,CA
+5,Pacific Southwest Region,12,San Bernardino NF,55,San Jacinto RD,CA
+5,Pacific Southwest Region,13,Sequoia NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,13,Sequoia NF,51,Hume Lake RD,CA
+5,Pacific Southwest Region,13,Sequoia NF,52,Western Divide RD,CA
+5,Pacific Southwest Region,13,Sequoia NF,53,Hot Springs RD (Legacy),CA
+5,Pacific Southwest Region,13,Sequoia NF,54,Kern River RD,CA
+5,Pacific Southwest Region,13,Sequoia NF,56,Cannell-Meadow RD (Legacy),CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,1,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,2,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,4,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,28,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,50,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,51,Yolla Bolla RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,52,Hayfork RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,53,,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,54,Big Bar RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,56,Weaverville RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,58,Shasta Lake RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,59,Mt. Shasta RD,CA
+5,Pacific Southwest Region,14,Shasta Trinity NF,61,McCloud RD,CA
+5,Pacific Southwest Region,15,Sierra NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,15,Sierra NF,51,Bass Lake RD,CA
+5,Pacific Southwest Region,15,Sierra NF,52,High Sierra RD,CA
+5,Pacific Southwest Region,15,Sierra NF,53,Pineridge RD (Legacy),CA
+5,Pacific Southwest Region,15,Sierra NF,54,Kings River RD (Legacy),CA
+5,Pacific Southwest Region,15,Sierra NF,55,Bass Lake RD (Legacy),CA
+5,Pacific Southwest Region,16,Stanislaus NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,16,Stanislaus NF,51,Mi-Wok RD,CA
+5,Pacific Southwest Region,16,Stanislaus NF,52,Calaveras RD,CA
+5,Pacific Southwest Region,16,Stanislaus NF,53,Summit RD,CA
+5,Pacific Southwest Region,16,Stanislaus NF,54,Groveland RD,CA
+5,Pacific Southwest Region,17,Tahoe NF,0,Supervisor's Office,CA
+5,Pacific Southwest Region,17,Tahoe NF,53,Yuba River RD,CA
+5,Pacific Southwest Region,17,Tahoe NF,54,American River RD,CA
+5,Pacific Southwest Region,17,Tahoe NF,55,Nevada City RD (Legacy),CA
+5,Pacific Southwest Region,17,Tahoe NF,56,Sierraville River RD,CA
+5,Pacific Southwest Region,17,Tahoe NF,57,Truckee RD,CA
+5,Pacific Southwest Region,19,Lake Tahoe Basin MU,0,Supervisor Office,CA
+5,Pacific Southwest Region,19,Lake Tahoe Basin MU,53,Eldorado RD,CA
+5,Pacific Southwest Region,19,Lake Tahoe Basin MU,54,Toiyabe RD,CA
+5,Pacific Southwest Region,19,Lake Tahoe Basin MU,54,Toiyabe RD,NV
+5,Pacific Southwest Region,19,Lake Tahoe Basin MU,57,Tahoe RD,CA
+5,Pacific Southwest Region,20,R5 Regional Office,,,CA
+5,Pacific Southwest Region,21,R5 Regional Projects/Services,,,CA
+6,Pacific Northwest Region,,,,,OR
+6,Pacific Northwest Region,1,Deschutes NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,1,Deschutes NF,1,Bend/Ft Rock RD,OR
+6,Pacific Northwest Region,1,Deschutes NF,2,Crescent RD,OR
+6,Pacific Northwest Region,1,Deschutes NF,3,Fort Rock RD,OR
+6,Pacific Northwest Region,1,Deschutes NF,5,Sisters RD,OR
+6,Pacific Northwest Region,1,Deschutes NF,6,Redmond Air Center,OR
+6,Pacific Northwest Region,1,Deschutes NF,16,,OR
+6,Pacific Northwest Region,1,Deschutes NF,19,Bend Nursery,OR
+6,Pacific Northwest Region,1,Deschutes NF,35,,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,0,Supervisor's Office,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,1,Bly RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,2,Lakeview RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,3,Paisley RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,4,Silver Lake RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,11,Chemult RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,12,Chiloquin RD,OR
+6,Pacific Northwest Region,2,Fremont-Winema NFs,13,Klamath RD,OR
+6,Pacific Northwest Region,3,Gifford Pinchot NF,0,Supervisor's Office,WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,1,Mt St Helens Natl Volcanic Monument,WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,3,Mt. Adams RD,WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,4,Packwood RD (Legacy),WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,5,Cowlitz Valley RD,WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,8,Wind River RD (Legacy),WA
+6,Pacific Northwest Region,3,Gifford Pinchot NF,19,Wind River Nursery,WA
+6,Pacific Northwest Region,4,Malheur NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,4,Malheur NF,1,Blue Mountain RD,OR
+6,Pacific Northwest Region,4,Malheur NF,2,Emigrant Creek RD,OR
+6,Pacific Northwest Region,4,Malheur NF,3,Long Creek RD,OR
+6,Pacific Northwest Region,4,Malheur NF,4,Prairie City RD,OR
+6,Pacific Northwest Region,4,Malheur NF,6,,OR
+6,Pacific Northwest Region,4,Malheur NF,12,,OR
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,0,Supervisor's Office,WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,1,Mt Baker RD,WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,2,Darrington RD,WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,3,Glacier RD (Legacy),WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,4,Monte Cristo RD (Legacy),WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,5,North Bend RD,WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,6,Skykomish RD,WA
+6,Pacific Northwest Region,5,MT Baker-Snoqualmie NF,7,White River RD,WA
+6,Pacific Northwest Region,6,MT Hood NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,6,MT Hood NF,1,Barlow RD,OR
+6,Pacific Northwest Region,6,MT Hood NF,2,Bear Springs RD (Legacy),OR
+6,Pacific Northwest Region,6,MT Hood NF,3,Clackamas RD (Legacy),OR
+6,Pacific Northwest Region,6,MT Hood NF,4,Columbia Gorge RD (Legacy),OR
+6,Pacific Northwest Region,6,MT Hood NF,5,Clackamas River RD,OR
+6,Pacific Northwest Region,6,MT Hood NF,6,Hood River RD,OR
+6,Pacific Northwest Region,6,MT Hood NF,9,Zigzag RD,OR
+6,Pacific Northwest Region,6,MT Hood NF,10,Timber Lake Civilian Consv Center,OR
+6,Pacific Northwest Region,7,Ochoco NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,7,Ochoco NF,1,Lookout Mountain RD,OR
+6,Pacific Northwest Region,7,Ochoco NF,2,Paulina RD,OR
+6,Pacific Northwest Region,7,Ochoco NF,3,Prineville RD (Legacy),OR
+6,Pacific Northwest Region,7,Ochoco NF,4,Snow Mountain RD (Legacy),OR
+6,Pacific Northwest Region,7,Ochoco NF,5,Crooked River Natl Grassland,OR
+6,Pacific Northwest Region,7,Ochoco NF,7,,OR
+6,Pacific Northwest Region,8,Okanogan NF (Legacy),1,Conconully RD (Legacy),WA
+6,Pacific Northwest Region,8,Okanogan NF (Legacy),3,Tonasket RD (Legacy),WA
+6,Pacific Northwest Region,8,Okanogan NF (Legacy),4,Twisp RD (Legacy),WA
+6,Pacific Northwest Region,8,Okanogan NF (Legacy),5,Winthrop RD (Legacy),WA
+6,Pacific Northwest Region,8,Okanogan NF (Legacy),7,Methow RD (Legacy),WA
+6,Pacific Northwest Region,9,Olympic NF,0,Supervisor's Office,WA
+6,Pacific Northwest Region,9,Olympic NF,1,Hood Canal RD/Hoodsport,WA
+6,Pacific Northwest Region,9,Olympic NF,2,Hood Canal RD/Quilcene,WA
+6,Pacific Northwest Region,9,Olympic NF,3,Pacific RD/Quinault,WA
+6,Pacific Northwest Region,9,Olympic NF,4,Shelton RD (Legacy),WA
+6,Pacific Northwest Region,9,Olympic NF,5,Pacific RD/Forks,WA
+6,Pacific Northwest Region,9,Olympic NF,16,,WA
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,1,Applegate RD (Legacy),CA
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,1,Applegate RD (Legacy),OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,2,Ashland RD (Legacy),OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,3,Butte Falls RD (Legacy),OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,6,Prospect RD (Legacy),OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,19,J. Herbert Stone Nursery,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,20,Siskiyou Mountains RD,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,22,Wild Rivers RD,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,24,High Cascades RD,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,26,Gold Beach RD,OR
+6,Pacific Northwest Region,10,Rogue River - Siskiyou NF,28,Powers RD,OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),1,Chetco RD (Legacy),OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),2,Galice RD (Legacy),OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),3,Gold Beach RD (Legacy),OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),4,Ill. Valley RD (Legacy),CA
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),4,Ill. Valley RD (Legacy),OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),5,Powers RD (Legacy),OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),6,,OR
+6,Pacific Northwest Region,11,Siskiyou NF (Legacy),51,,OR
+6,Pacific Northwest Region,12,Siuslaw NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,12,Siuslaw NF,1,Hebo RD,OR
+6,Pacific Northwest Region,12,Siuslaw NF,2,Mapleton RD (Legacy),OR
+6,Pacific Northwest Region,12,Siuslaw NF,3,Alsea RD,OR
+6,Pacific Northwest Region,12,Siuslaw NF,4,Oregon Dunes NRA (Legacy),OR
+6,Pacific Northwest Region,12,Siuslaw NF,5,Waldport RD (Legacy),OR
+6,Pacific Northwest Region,12,Siuslaw NF,7,Angell Job Corp Civilian Consv Center,OR
+6,Pacific Northwest Region,12,Siuslaw NF,8,Central Coast RD-Oregon Dunes NRA,OR
+6,Pacific Northwest Region,14,Umatilla NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,14,Umatilla NF,1,Dale RD (Legacy),OR
+6,Pacific Northwest Region,14,Umatilla NF,2,Heppner RD,OR
+6,Pacific Northwest Region,14,Umatilla NF,4,Pomeroy RD,OR
+6,Pacific Northwest Region,14,Umatilla NF,4,Pomeroy RD,WA
+6,Pacific Northwest Region,14,Umatilla NF,5,N. Fork John Day RD,OR
+6,Pacific Northwest Region,14,Umatilla NF,6,Walla Walla RD,OR
+6,Pacific Northwest Region,14,Umatilla NF,6,Walla Walla RD,WA
+6,Pacific Northwest Region,14,Umatilla NF,20,,OR
+6,Pacific Northwest Region,15,Umpqua NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,15,Umpqua NF,1,Cottage Grove RD,OR
+6,Pacific Northwest Region,15,Umpqua NF,2,Tiller RD,OR
+6,Pacific Northwest Region,15,Umpqua NF,3,Diamond Lake RD,OR
+6,Pacific Northwest Region,15,Umpqua NF,4,Glide RD,OR
+6,Pacific Northwest Region,15,Umpqua NF,5,Dorena Genetic Resource Ctr,OR
+6,Pacific Northwest Region,15,Umpqua NF,6,North Umpqua RD,OR
+6,Pacific Northwest Region,15,Umpqua NF,20,,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,1,Baker RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,2,Wallowa Valley RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,4,Hells Canyon NRA,ID
+6,Pacific Northwest Region,16,Wallowa Whitman NF,4,Hells Canyon NRA,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,5,Eagle Cap RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,6,La Grande RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,7,Pine RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,8,Union RD (Legacy),OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,9,Unity RD,OR
+6,Pacific Northwest Region,16,Wallowa Whitman NF,53,,OR
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,0,Supervisor's Office,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,2,Chelan RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,3,Cle Elum RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,4,Methow Valley RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,5,Entiat RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,6,Lake Wenatchee RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,7,Okanogan-Wenatchee Ntl Forests,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,8,Naches RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,9,Tonasket RD,WA
+6,Pacific Northwest Region,17,Okanogan-Wenatchee NFs,20,N Cascade Smokejumper Base,WA
+6,Pacific Northwest Region,18,Willamette NF,0,Supervisor's Office,OR
+6,Pacific Northwest Region,18,Willamette NF,1,McKenzie River RD,OR
+6,Pacific Northwest Region,18,Willamette NF,2,,WA
+6,Pacific Northwest Region,18,Willamette NF,3,Sweet Home RD,OR
+6,Pacific Northwest Region,18,Willamette NF,4,Administrative Services,OR
+6,Pacific Northwest Region,18,Willamette NF,4,Detroit RD,OR
+6,Pacific Northwest Region,18,Willamette NF,5,Rigdon RD,OR
+6,Pacific Northwest Region,18,Willamette NF,6,Lowell RD,OR
+6,Pacific Northwest Region,18,Willamette NF,7,Mckenzie RD (Legacy),OR
+6,Pacific Northwest Region,18,Willamette NF,8,Oakridge RD,OR
+6,Pacific Northwest Region,18,Willamette NF,10,Middle Fork RD,OR
+6,Pacific Northwest Region,18,Willamette NF,20,,OR
+6,Pacific Northwest Region,20,Winema NF (Legacy),1,Chemult RD (Legacy),OR
+6,Pacific Northwest Region,20,Winema NF (Legacy),2,Chiloquin RD (Legacy),OR
+6,Pacific Northwest Region,20,Winema NF (Legacy),3,Klamath RD (Legacy),OR
+6,Pacific Northwest Region,20,Winema NF (Legacy),35,,OR
+6,Pacific Northwest Region,21,Colville NF,0,Supervisor's Office,WA
+6,Pacific Northwest Region,21,Colville NF,1,Colville RD (Legacy),WA
+6,Pacific Northwest Region,21,Colville NF,2,Kettle Falls RD (Legacy),WA
+6,Pacific Northwest Region,21,Colville NF,3,Newport RD,WA
+6,Pacific Northwest Region,21,Colville NF,4,Republic RD,WA
+6,Pacific Northwest Region,21,Colville NF,5,Sullivan Lake RD,WA
+6,Pacific Northwest Region,21,Colville NF,6,Curlew Civilian Consv Center,WA
+6,Pacific Northwest Region,21,Colville NF,12,Three Rivers Ranger District,WA
+6,Pacific Northwest Region,22,Columbia River Gorge NSA,0,Main Office,OR
+6,Pacific Northwest Region,22,Columbia River Gorge NSA,1,,OR
+6,Pacific Northwest Region,22,Columbia River Gorge NSA,1,,WA
+6,Pacific Northwest Region,27,R6 Regional Office,,,OR
+8,Southern Region,,,,,GA
+8,Southern Region,1,NFS in Alabama,0,,AL
+8,Southern Region,1,NFS in Alabama,1,Bankhead RD,AL
+8,Southern Region,1,NFS in Alabama,2,,AL
+8,Southern Region,1,NFS in Alabama,3,Conecuh RD,AL
+8,Southern Region,1,NFS in Alabama,4,Oakmulgee RD,AL
+8,Southern Region,1,NFS in Alabama,5,Shoal Creek RD,AL
+8,Southern Region,1,NFS in Alabama,6,Talladega RD,AL
+8,Southern Region,1,NFS in Alabama,7,Tuskegee RD,AL
+8,Southern Region,1,NFS in Alabama,13,,AL
+8,Southern Region,1,NFS in Alabama,15,,AL
+8,Southern Region,2,Daniel Boone NF,0,Supervisor's Office,KY
+8,Southern Region,2,Daniel Boone NF,2,,KY
+8,Southern Region,2,Daniel Boone NF,4,,KY
+8,Southern Region,2,Daniel Boone NF,6,,KY
+8,Southern Region,2,Daniel Boone NF,7,,KY
+8,Southern Region,2,Daniel Boone NF,11,Cumberland RD,KY
+8,Southern Region,2,Daniel Boone NF,12,Stanton RD,KY
+8,Southern Region,2,Daniel Boone NF,13,Berea RD (Legacy),KY
+8,Southern Region,2,Daniel Boone NF,14,London RD,KY
+8,Southern Region,2,Daniel Boone NF,15,Somerset RD,KY
+8,Southern Region,2,Daniel Boone NF,16,Stearns RD,KY
+8,Southern Region,2,Daniel Boone NF,17,Redbird RD,KY
+8,Southern Region,2,Daniel Boone NF,18,Frenchburg Civilian Consv Center,KY
+8,Southern Region,2,Daniel Boone NF,19,Pine Knot Civilian Consv Center,KY
+8,Southern Region,2,Daniel Boone NF,32,,KY
+8,Southern Region,3,Chattahoochee-Oconee NF,0,Supervisor's Office,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,1,Conasauga RD,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,2,Blue Ridge RD,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,3,Chestatee RD,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,4,Brasstown RD (Legacy),GA
+8,Southern Region,3,Chattahoochee-Oconee NF,5,Tallulah RD (Legacy),GA
+8,Southern Region,3,Chattahoochee-Oconee NF,6,Chattooga RD,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,7,Cohutta RD (Legacy),GA
+8,Southern Region,3,Chattahoochee-Oconee NF,8,Oconee RD,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,11,,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,12,,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,14,,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,18,,GA
+8,Southern Region,3,Chattahoochee-Oconee NF,33,,GA
+8,Southern Region,4,Cherokee NF,0,Supervisor's Office,TN
+8,Southern Region,4,Cherokee NF,1,Hiwassee RD (Legacy),TN
+8,Southern Region,4,Cherokee NF,2,Nolichucky/Unaka RD,TN
+8,Southern Region,4,Cherokee NF,3,Ocoee/Hiwassee RD,TN
+8,Southern Region,4,Cherokee NF,4,Tellico RD,TN
+8,Southern Region,4,Cherokee NF,5,Unaka RD (Legacy),TN
+8,Southern Region,4,Cherokee NF,6,Watauga RD,NC
+8,Southern Region,4,Cherokee NF,6,Watauga RD,TN
+8,Southern Region,4,Cherokee NF,6,Watauga RD,VA
+8,Southern Region,4,Cherokee NF,7,Jacobs Cr Civilian Consv Center,TN
+8,Southern Region,4,Cherokee NF,10,,TN
+8,Southern Region,4,Cherokee NF,14,,TN
+8,Southern Region,5,NFS in Florida,0,,FL
+8,Southern Region,5,NFS in Florida,1,Apalachicola RD,FL
+8,Southern Region,5,NFS in Florida,2,Lake George RD,FL
+8,Southern Region,5,NFS in Florida,3,,FL
+8,Southern Region,5,NFS in Florida,4,Osceola RD,FL
+8,Southern Region,5,NFS in Florida,5,Seminole RD,FL
+8,Southern Region,5,NFS in Florida,6,Wakulla RD,FL
+8,Southern Region,6,Kisatchie NF,0,Supervisor's Office,LA
+8,Southern Region,6,Kisatchie NF,1,Catahoula RD,LA
+8,Southern Region,6,Kisatchie NF,2,Calcasieu RD,LA
+8,Southern Region,6,Kisatchie NF,3,Kisatchie RD,LA
+8,Southern Region,6,Kisatchie NF,4,Winn RD,LA
+8,Southern Region,6,Kisatchie NF,5,Vernon RD (Legacy),LA
+8,Southern Region,6,Kisatchie NF,6,Caney RD,LA
+8,Southern Region,6,Kisatchie NF,8,Caney RD,LA
+8,Southern Region,6,Kisatchie NF,36,,LA
+8,Southern Region,7,NFS in Mississippi,0,,MS
+8,Southern Region,7,NFS in Mississippi,1,Bienville RD,MS
+8,Southern Region,7,NFS in Mississippi,2,De Soto RD,MS
+8,Southern Region,7,NFS in Mississippi,3,,MS
+8,Southern Region,7,NFS in Mississippi,4,Homochitto RD,MS
+8,Southern Region,7,NFS in Mississippi,5,Chickasawhay RD,MS
+8,Southern Region,7,NFS in Mississippi,6,Delta RD,MS
+8,Southern Region,7,NFS in Mississippi,7,Holly Springs RD,MS
+8,Southern Region,7,NFS in Mississippi,8,,MS
+8,Southern Region,7,NFS in Mississippi,10,,MS
+8,Southern Region,7,NFS in Mississippi,17,Tombigbee RD,MS
+8,Southern Region,7,NFS in Mississippi,20,,MS
+8,Southern Region,7,NFS in Mississippi,37,,MS
+8,Southern Region,8,G Washington and Jefferson NFs,0,Supervisor's Office,VA
+8,Southern Region,8,G Washington and Jefferson NFs,1,Deerfield RD (Legacy),VA
+8,Southern Region,8,G Washington and Jefferson NFs,2,North River RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,2,North River RD,WV
+8,Southern Region,8,G Washington and Jefferson NFs,3,James River RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,3,James River RD,WV
+8,Southern Region,8,G Washington and Jefferson NFs,4,Lee RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,4,Lee RD,WV
+8,Southern Region,8,G Washington and Jefferson NFs,5,Pedlar RD (Legacy),VA
+8,Southern Region,8,G Washington and Jefferson NFs,6,Warm Springs RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,7,Flatwoods Civilian Consv Center,VA
+8,Southern Region,8,G Washington and Jefferson NFs,8,,VA
+8,Southern Region,8,G Washington and Jefferson NFs,11,Eastern Divide RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,11,Eastern Divide RD,WV
+8,Southern Region,8,G Washington and Jefferson NFs,12,Clinch RD,KY
+8,Southern Region,8,G Washington and Jefferson NFs,12,Clinch RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,12,Clinch RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,13,Glenwood-Pedlar RD,VA
+8,Southern Region,8,G Washington and Jefferson NFs,14,Mt. Rogers NRA,VA
+8,Southern Region,8,G Washington and Jefferson NFs,15,New Castle RD (Legacy),VA
+8,Southern Region,8,G Washington and Jefferson NFs,15,New Castle RD (Legacy),WV
+8,Southern Region,8,G Washington and Jefferson NFs,16,Wythe RD (Legacy),VA
+8,Southern Region,8,G Washington and Jefferson NFs,17,,VA
+8,Southern Region,9,Ouachita NF,0,Supervisor's Office,AR
+8,Southern Region,9,Ouachita NF,1,Choctaw RD,OK
+8,Southern Region,9,Ouachita NF,2,Caddo RD,AR
+8,Southern Region,9,Ouachita NF,3,Cold Springs RD,AR
+8,Southern Region,9,Ouachita NF,4,Fourche RD,AR
+8,Southern Region,9,Ouachita NF,5,Jessieville RD,AR
+8,Southern Region,9,Ouachita NF,6,Kiamichi RD,OK
+8,Southern Region,9,Ouachita NF,7,Mena RD,AR
+8,Southern Region,9,Ouachita NF,8,Oden RD,AR
+8,Southern Region,9,Ouachita NF,9,Poteau RD,AR
+8,Southern Region,9,Ouachita NF,10,Womble RD,AR
+8,Southern Region,9,Ouachita NF,11,Winona RD,AR
+8,Southern Region,9,Ouachita NF,12,Tiak RD,OK
+8,Southern Region,9,Ouachita NF,13,Ouachita Civilian Consv Center,AR
+8,Southern Region,9,Ouachita NF,39,,AR
+8,Southern Region,9,Ouachita NF,40,,AR
+8,Southern Region,10,Ozark-St Francis NF,0,Supervisor's Office,AR
+8,Southern Region,10,Ozark-St Francis NF,1,Sylamore RD,AR
+8,Southern Region,10,Ozark-St Francis NF,2,Buffalo RD,AR
+8,Southern Region,10,Ozark-St Francis NF,3,Bayou RD,AR
+8,Southern Region,10,Ozark-St Francis NF,4,Pleasant Hill RD,AR
+8,Southern Region,10,Ozark-St Francis NF,5,Boston Mountain RD,AR
+8,Southern Region,10,Ozark-St Francis NF,6,Mt Magazine RD,AR
+8,Southern Region,10,Ozark-St Francis NF,7,St. Francis RD,AR
+8,Southern Region,10,Ozark-St Francis NF,9,Cass Civilian Consv Center,AR
+8,Southern Region,10,Ozark-St Francis NF,10,,AR
+8,Southern Region,10,Ozark-St Francis NF,40,,AR
+8,Southern Region,11,NFS in North Carolina,0,,NC
+8,Southern Region,11,NFS in North Carolina,1,Forest Supervisor Staff,NC
+8,Southern Region,11,NFS in North Carolina,2,Cheoah RD,NC
+8,Southern Region,11,NFS in North Carolina,3,Croatan RD,NC
+8,Southern Region,11,NFS in North Carolina,4,French Broad RD (Legacy),NC
+8,Southern Region,11,NFS in North Carolina,5,Grandfather RD,NC
+8,Southern Region,11,NFS in North Carolina,6,Highlands RD,NC
+8,Southern Region,11,NFS in North Carolina,7,Pisgah RD,NC
+8,Southern Region,11,NFS in North Carolina,8,Appalachian RD,NC
+8,Southern Region,11,NFS in North Carolina,9,Tusquittee RD,NC
+8,Southern Region,11,NFS in North Carolina,10,Uwharrie RD,NC
+8,Southern Region,11,NFS in North Carolina,11,Nantahala RD,NC
+8,Southern Region,12,Francis Marion-Sumter NFs,0,Supervisor's Office,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,1,Enoree RD,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,2,Andrew Pickens RD,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,3,Long Cane RD,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,5,Francis Marion RD,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,5,Wambaw RD,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,6,Witherbee RD (Legacy),SC
+8,Southern Region,12,Francis Marion-Sumter NFs,7,Tyger RD (Legacy),SC
+8,Southern Region,12,Francis Marion-Sumter NFs,8,Edgefield RD (Legacy),SC
+8,Southern Region,12,Francis Marion-Sumter NFs,10,,SC
+8,Southern Region,12,Francis Marion-Sumter NFs,13,,SC
+8,Southern Region,13,NFS & Grasslands in Texas,0,,TX
+8,Southern Region,13,NFS & Grasslands in Texas,1,Angelina RD,TX
+8,Southern Region,13,NFS & Grasslands in Texas,2,San Jacinto RD (Legacy),TX
+8,Southern Region,13,NFS & Grasslands in Texas,3,Davy Crockett RD,TX
+8,Southern Region,13,NFS & Grasslands in Texas,4,Sam Houston RD,TX
+8,Southern Region,13,NFS & Grasslands in Texas,5,Tenaha RD (Legacy),TX
+8,Southern Region,13,NFS & Grasslands in Texas,6,Trinity RD (Legacy),TX
+8,Southern Region,13,NFS & Grasslands in Texas,7,Sabine RD,TX
+8,Southern Region,13,NFS & Grasslands in Texas,8,Caddo-LBJ RD,TX
+8,Southern Region,13,NFS & Grasslands in Texas,43,,TX
+8,Southern Region,16,El Yunque NF - Caribbean,0,Supervisor's Office,PR
+8,Southern Region,16,El Yunque NF - Caribbean,1,Catalina Field Office,PR
+8,Southern Region,20,R8 Regional Projects/Services,,,GA
+8,Southern Region,31,R8 Regional Office,,,GA
+8,Southern Region,36,Savannah River Site,,,SC
+8,Southern Region,60,Land between the Lakes NRA,0,LBL Office,KY
+8,Southern Region,60,Land between the Lakes NRA,1,Customer Services,KY
+8,Southern Region,60,Land between the Lakes NRA,1,Customer Services,TN
+9,Eastern Region,,,,,WI
+9,Eastern Region,1,R9 Regional Office,,,WI
+9,Eastern Region,3,Chippewa NF,0,Supervisor's Office,MN
+9,Eastern Region,3,Chippewa NF,1,Blackduck RD,MN
+9,Eastern Region,3,Chippewa NF,2,Cass Lake RD,MN
+9,Eastern Region,3,Chippewa NF,3,Deer River RD,MN
+9,Eastern Region,3,Chippewa NF,4,Marcell RD,MN
+9,Eastern Region,3,Chippewa NF,5,Walker RD,MN
+9,Eastern Region,4,Huron-Manistee NF,0,Supervisor's Office,MI
+9,Eastern Region,4,Huron-Manistee NF,1,Baldwin RD,MI
+9,Eastern Region,4,Huron-Manistee NF,2,Cadillac RD,MI
+9,Eastern Region,4,Huron-Manistee NF,3,Manistee RD,MI
+9,Eastern Region,4,Huron-Manistee NF,4,White Cloud RD,MI
+9,Eastern Region,4,Huron-Manistee NF,5,Mio RD,MI
+9,Eastern Region,4,Huron-Manistee NF,6,Tawas RD,MI
+9,Eastern Region,4,Huron-Manistee NF,7,Harrisville RD,MI
+9,Eastern Region,5,Mark Twain NF,0,Supervisor's Office,MO
+9,Eastern Region,5,Mark Twain NF,1,,MO
+9,Eastern Region,5,Mark Twain NF,2,Fredericktown RD,MO
+9,Eastern Region,5,Mark Twain NF,3,Houston RD,MO
+9,Eastern Region,5,Mark Twain NF,4,Poplar Bluff RD,MO
+9,Eastern Region,5,Mark Twain NF,5,Potosi RD,MO
+9,Eastern Region,5,Mark Twain NF,6,Rolla RD,MO
+9,Eastern Region,5,Mark Twain NF,7,Salem RD,MO
+9,Eastern Region,5,Mark Twain NF,8,Cedar Creek RD,MO
+9,Eastern Region,5,Mark Twain NF,21,Ava RD,MO
+9,Eastern Region,5,Mark Twain NF,22,Cassville RD,MO
+9,Eastern Region,5,Mark Twain NF,23,Doniphan RD,MO
+9,Eastern Region,5,Mark Twain NF,25,Willow Springs RD,MO
+9,Eastern Region,5,Mark Twain NF,26,Eleven Point RD,MO
+9,Eastern Region,7,Ottawa NF,0,Supervisor's Office,MI
+9,Eastern Region,7,Ottawa NF,1,Bergland RD,MI
+9,Eastern Region,7,Ottawa NF,1,Bergland RD,MI
+9,Eastern Region,7,Ottawa NF,2,Bessemer RD,MI
+9,Eastern Region,7,Ottawa NF,3,Iron River RD,MI
+9,Eastern Region,7,Ottawa NF,4,Kenton RD,MI
+9,Eastern Region,7,Ottawa NF,4,Kenton RD,MI
+9,Eastern Region,7,Ottawa NF,5,Ontonagon RD,MI
+9,Eastern Region,7,Ottawa NF,6,Watersmeet RD,MI
+9,Eastern Region,8,Shawnee NF,0,Supervisor's Office,IL
+9,Eastern Region,8,Shawnee NF,1,Elizabethtown RD (Legacy),IL
+9,Eastern Region,8,Shawnee NF,2,Mississippi Bluffs RD,IL
+9,Eastern Region,8,Shawnee NF,3,Murphysboro RD (Legacy),IL
+9,Eastern Region,8,Shawnee NF,4,Hidden Springs RD,IL
+9,Eastern Region,8,Shawnee NF,5,Golconda Civilian Consv Center,IL
+9,Eastern Region,9,Superior NF,0,Supervisor's Office,MN
+9,Eastern Region,9,Superior NF,1,Laurentian RD,MN
+9,Eastern Region,9,Superior NF,2,Gunflint RD,MN
+9,Eastern Region,9,Superior NF,4,Isabella RD,MN
+9,Eastern Region,9,Superior NF,5,Kawishiwi RD,MN
+9,Eastern Region,9,Superior NF,6,LaCroix RD,MN
+9,Eastern Region,9,Superior NF,7,Tofte RD,MN
+9,Eastern Region,9,Superior NF,9,,MN
+9,Eastern Region,10,Hiawatha NF,0,Supervisor's Office,MI
+9,Eastern Region,10,Hiawatha NF,1,Rapid River RD,MI
+9,Eastern Region,10,Hiawatha NF,2,Manistique RD,MI
+9,Eastern Region,10,Hiawatha NF,3,Munising RD,MI
+9,Eastern Region,10,Hiawatha NF,3,Munising RD,MI
+9,Eastern Region,10,Hiawatha NF,4,Sault Ste Marie RD,MI
+9,Eastern Region,10,Hiawatha NF,5,St Ignace RD,MI
+9,Eastern Region,12,Hoosier NF,0,Supervisor's Office,IN
+9,Eastern Region,12,Hoosier NF,1,,IN
+9,Eastern Region,12,Hoosier NF,2,Brownstown RD,IN
+9,Eastern Region,12,Hoosier NF,3,,IN
+9,Eastern Region,12,Hoosier NF,4,Tell City RD,IN
+9,Eastern Region,12,Hoosier NF,12,,IN
+9,Eastern Region,13,Chequamegon-Nicolet NF,0,Supervisor's Office,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,1,Medford-Park Falls RD,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,2,Great Divide RD,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,3,Eagle River-Florence RD,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,4,Lakewood-Laona RD,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,5,Washburn RD,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,9,,WI
+9,Eastern Region,13,Chequamegon-Nicolet NF,18,Northern Great Lakes Visitor Center,WI
+9,Eastern Region,14,Wayne NF,0,Supervisor's Office,OH
+9,Eastern Region,14,Wayne NF,1,Athens RD,OH
+9,Eastern Region,14,Wayne NF,3,Ironton RD,OH
+9,Eastern Region,14,Wayne NF,4,,OH
+9,Eastern Region,14,Wayne NF,14,,OH
+9,Eastern Region,15,Midewin Tallgrass Prairie,0,Supervisor's Office,IL
+9,Eastern Region,19,Allegheny NF,0,Supervisor's Office,PA
+9,Eastern Region,19,Allegheny NF,1,Sheffield RD,PA
+9,Eastern Region,19,Allegheny NF,2,Marienville RD,PA
+9,Eastern Region,19,Allegheny NF,3,Bradford RD,PA
+9,Eastern Region,19,Allegheny NF,4,Ridgway RD,PA
+9,Eastern Region,19,Allegheny NF,10,,PA
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,0,Supervisor's Office,VT
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,1,Middlebury RD,VT
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,2,Manchester RD,VT
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,3,Hector RD,NY
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,3,Hector RD,VT
+9,Eastern Region,20,Green Mtn and Finger Lakes NFs,5,Rochester RD,VT
+9,Eastern Region,21,Monongahela NF,0,Supervisor's Office,WV
+9,Eastern Region,21,Monongahela NF,1,Cheat RD,WV
+9,Eastern Region,21,Monongahela NF,2,Gauley RD,WV
+9,Eastern Region,21,Monongahela NF,3,Greenbrier RD,WV
+9,Eastern Region,21,Monongahela NF,4,Marlinton RD,WV
+9,Eastern Region,21,Monongahela NF,5,Potomac RD,WV
+9,Eastern Region,21,Monongahela NF,6,White Sulphur RD,WV
+9,Eastern Region,22,White Mountain NF,0,Supervisor's Office,NH
+9,Eastern Region,22,White Mountain NF,1,Ammonoosuc RD (Legacy),NH
+9,Eastern Region,22,White Mountain NF,2,Androscoggin RD,ME
+9,Eastern Region,22,White Mountain NF,2,Androscoggin RD,NH
+9,Eastern Region,22,White Mountain NF,3,Evans Notch RD (Legacy),ME
+9,Eastern Region,22,White Mountain NF,3,Evans Notch RD (Legacy),NH
+9,Eastern Region,22,White Mountain NF,4,Pemigewasset RD,NH
+9,Eastern Region,22,White Mountain NF,5,Saco RD,ME
+9,Eastern Region,22,White Mountain NF,5,Saco RD,NH
+9,Eastern Region,23,NE Forest Exp Station,,,ME
+9,Eastern Region,39,SC Forest Exp Station,,,OH
+9,Eastern Region,54,SC Forest Exp Station,,,WV
+9,Eastern Region,55,NW Forest Exp Station,,,WI
+10,Alaska Region,5,Tongass NF,54,Thorne Bay RD,AK
+10,Alaska Region,1,R10 Regional Office,,,AK
+10,Alaska Region,4,Chuguach NF,0,Supervisor's Office,AK
+10,Alaska Region,4,Chuguach NF,1,,AK
+10,Alaska Region,4,Chuguach NF,2,,AK
+10,Alaska Region,4,Chuguach NF,3,,AK
+10,Alaska Region,4,Chuguach NF,10,Glacier RD,AK
+10,Alaska Region,4,Chuguach NF,20,Cordova RD,AK
+10,Alaska Region,4,Chuguach NF,30,Seward RD,AK
+10,Alaska Region,5,Tongass NF,0,Supervisor's Office,AK
+10,Alaska Region,5,Tongass NF,1,Administrative Staff,AK
+10,Alaska Region,5,Tongass NF,2,"Asst Fs, Chat",AK
+10,Alaska Region,5,Tongass NF,4,,AK
+10,Alaska Region,5,Tongass NF,5,,AK
+10,Alaska Region,5,Tongass NF,10,Craig RD,AK
+10,Alaska Region,5,Tongass NF,20,Ketchikan RD,AK
+10,Alaska Region,5,Tongass NF,21,Petersburg RD,AK
+10,Alaska Region,5,Tongass NF,22,Wrangell RD,AK
+10,Alaska Region,5,Tongass NF,31,Sitka RD,AK
+10,Alaska Region,5,Tongass NF,32,Hoonah RD,AK
+10,Alaska Region,5,Tongass NF,33,Juneau RD,AK
+10,Alaska Region,5,Tongass NF,34,Admiralty National Monument,AK
+10,Alaska Region,5,Tongass NF,35,Yakutat RD,AK
+10,Alaska Region,5,Tongass NF,36,,AK
+10,Alaska Region,5,Tongass NF,40,Thorne Bay RD,AK
+10,Alaska Region,5,Tongass NF,51,Craig RD,AK
+10,Alaska Region,5,Tongass NF,52,Ketchikan - Misty RD,AK
+11,Forest Products Lab,11,Forest Products Lab,,,WI
+11,Forest Products Lab,,,,,WI
+12,Int'l Inst. of Tropical Frstry,,,,,PR
+12,Int'l Inst. of Tropical Frstry,1,IITF Operations,,,PR
+13,Washington Office,0,Washington Office,,,DC
+13,Washington Office,2,Nat'l Interagency Fire Center,,,ID
+13,Washington Office,4,GSTC,,,UT
+13,Washington Office,6,Natl Adv Resource Tech Center,,,DC
+13,Washington Office,20,Office of the Chief,,,DC
+13,Washington Office,22,Business Operations,,,DC
+13,Washington Office,23,WO - Common Services,,,DC
+13,Washington Office,24,National Forest System,,,DC
+13,Washington Office,25,State & Private Forestry,,,DC
+13,Washington Office,26,Research And Development,,,DC
+13,Washington Office,60,Law Enforce & Investigations,,,DC
+13,Washington Office,81,San Dimas Tech & Dev Center,,,CA
+13,Washington Office,82,Missoula Tech & Dev Center,,,MT
+16,Job Corps,,,,,NA
+16,Job Corps,1,Job Corp Nat'l Field Office,,,CO
+16,Job Corps,3,Flatwoods JCCC,,,VA
+16,Job Corps,4,Frenchburg JCCC,,,KY
+16,Job Corps,5,Jacobs Creek JCCC,,,TN
+16,Job Corps,6,LBJ JCCC,,,NC
+16,Job Corps,7,Pine Knot JCCC,,,KY
+16,Job Corps,8,Schenck JCCC,,,NC
+16,Job Corps,9,Cass JCCC,,,AR
+16,Job Corps,10,Ouachita JCCC,,,AR
+16,Job Corps,11,Blackwell JCCC,,,WI
+16,Job Corps,12,Golconda JCCC,,,IL
+16,Job Corps,13,Anaconda JCCC,,,MT
+16,Job Corps,14,Trapper Creek JCCC,,,MT
+16,Job Corps,15,Boxelder JCCC,,,SD
+16,Job Corps,16,Pine Ridge JCCC,,,NE
+16,Job Corps,17,Timber Lake JCCC,,,OR
+16,Job Corps,18,Wolf Creek JCCC,,,OR
+16,Job Corps,19,Angell JCCC,,,OR
+16,Job Corps,20,Curlew JCCC,,,WA
+16,Job Corps,21,Mingo JCCC,,,MO
+16,Job Corps,22,Great Onyx JCCC,,,KY
+16,Job Corps,23,Harpers Ferry JCCC,,,WV
+16,Job Corps,24,Oconaluftee JCCC,,,NC
+16,Job Corps,25,Centennial JCCC,,,ID
+16,Job Corps,26,Collbran JCCC,,,CO
+16,Job Corps,27,Columbia Basin JCCC,,,WA
+16,Job Corps,28,Fort Simcoe JCCC,,,WA
+16,Job Corps,29,Treasure Lake JCCC,,,OK
+16,Job Corps,30,Weber Basin JCCC,,,UT
+22,Rocky Mtn Research Station,16,RMRS,,,CO
+23,N Central Forest Exp. Station,2,Grand Rapids Lab,,,MN
+23,N Central Forest Exp. Station,3,Rhinelander Lab,,,WI
+23,N Central Forest Exp. Station,5,Houghton Lab,,,MI
+23,N Central Forest Exp. Station,7,East Lansing Lab,,,MI
+23,N Central Forest Exp. Station,8,Evanston Lab,,,IL
+23,N Central Forest Exp. Station,10,Columbia Lab,,,MO
+23,N Central Forest Exp. Station,11,W. Lafayette Lab,,,IN
+23,N Central Forest Exp. Station,12,St. Paul Lab,,,MN
+24,Northern Research Station,4,Burlington Forest Science Lab,,,VT
+24,Northern Research Station,5,Delaware Forest Science Lab,,,DE
+24,Northern Research Station,8,Morgantown Forest Science Lab,,,WV
+24,Northern Research Station,11,Forestry Science Lab-Princeton,,,NY
+24,Northern Research Station,12,State University Of New York,,,NY
+24,Northern Research Station,15,Grey Towers Natl Hist Landmark,,,PA
+24,Northern Research Station,23,Northern Research Station,1,Newtown Square,PA
+24,Northern Research Station,23,Northern Research Station,11,Amherst Field Office,MA
+24,Northern Research Station,23,Northern Research Station,13,Ansonia Forestry Sciences Lab,CT
+24,Northern Research Station,23,Northern Research Station,14,Burlington Forestry Sciences Lab,VT
+24,Northern Research Station,23,Northern Research Station,17,Delaware Forestry Sciences Lab,OH
+24,Northern Research Station,23,Northern Research Station,21,Durham Forestry Sciences Lab,NH
+24,Northern Research Station,23,Northern Research Station,25,Hamden Ne Cntr-Forest Health,CT
+24,Northern Research Station,23,Northern Research Station,29,Morgantown Fstry Sciences Lab,WV
+24,Northern Research Station,23,Northern Research Station,33,Parsons Timber And Watershed Lab,WV
+24,Northern Research Station,23,Northern Research Station,35,Princeton Forestry Sciences Lab,NJ
+24,Northern Research Station,23,Northern Research Station,39,Syracuse State University Of New York,NY
+24,Northern Research Station,23,Northern Research Station,41,Warren/Irvine Forestry Sciences Lab,PA
+24,Northern Research Station,23,Northern Research Station,51,St. Paul Forestry Sciences Lab,MN
+24,Northern Research Station,23,Northern Research Station,52,Grand Rapids Forestry Sciences Lab,MN
+24,Northern Research Station,23,Northern Research Station,53,Rhinelander Forestry Sciences Lab,WI
+24,Northern Research Station,23,Northern Research Station,54,W. Lafayette Forestry Sciences Lab,IN
+24,Northern Research Station,23,Northern Research Station,55,Houghton Forestry Sciences Lab,MI
+24,Northern Research Station,23,Northern Research Station,56,Columbia Forestry Sciences Lab,MO
+24,Northern Research Station,23,Northern Research Station,57,E. Lansing Forestry Sciences Lab,MI
+24,Northern Research Station,23,Northern Research Station,58,Evanston Forestry Sciences Lab,IL
+24,Northern Research Station,23,Northern Research Station,59,Madison,WI
+24,Northern Research Station,23,Northern Research Station,,,PA
+24,Northern Research Station,26,Amherst Field Office,,,MA
+24,Northern Research Station,27,Ansonia Forestry Sciences Lab,,,CT
+24,Northern Research Station,28,G. D. Aiken Fstry Sciences Lab,,,VT
+24,Northern Research Station,29,Delaware Forest Science Lab,,,OH
+24,Northern Research Station,30,L. C. Wyman Fstry Sciences Lab,,,NH
+24,Northern Research Station,31,Ne Cntr-Forest Health Research,,,CT
+24,Northern Research Station,32,Morgantown Field Office,,,WV
+24,Northern Research Station,34,Timber And Watershed Lab,,,WV
+24,Northern Research Station,35,Princeton Fstry Sciences Lab,,,NJ
+24,Northern Research Station,36,Syracuse Field Office,,,NY
+24,Northern Research Station,38,Warren Fstry Sciences Lab,,,PA
+25,Albuquerque Service Center,,,,,NM
+25,Albuquerque Service Center,2,ASC - Budget & Finance,,,NM
+25,Albuquerque Service Center,5,CIO,,,NM
+25,Albuquerque Service Center,6,Human Resources Mgmt (HRM),,,NM
+26,Pacific NW Research Station,,,,,OR
+26,Pacific NW Research Station,19,PNW Exp Station,,,OR
+27,Pacific SW Research Station,,,,,CA
+27,Pacific SW Research Station,21,PSWF & RES,,,CA
+33,Southern Research Station,1,Southern Research Station,,,NC
+42,"Northeastern Area, S&PF",50,,,,
+42,"Northeastern Area, S&PF",51,Grey Towers Nat'L Hist Site,,,PA
+42,"Northeastern Area, S&PF",53,,,,
+42,"Northeastern Area, S&PF",55,Wood Education & Resource Cntr,,,WV
