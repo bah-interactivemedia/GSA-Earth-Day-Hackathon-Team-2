@@ -44,3 +44,18 @@ header.row{
 #icon-home{
 	height: 40px;
 }
+
+.widget{
+	background-color: #000000;
+	height: 250px;
+	margin: 5px;
+	display: block;
+}
+
+.widget-col{
+	padding: 0px;
+}
+
+.small-widgets{
+	margin-top: 10px;
+}
