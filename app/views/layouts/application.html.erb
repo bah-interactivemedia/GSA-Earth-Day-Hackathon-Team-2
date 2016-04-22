@@ -2,13 +2,86 @@
 <html>
 <head>
   <title>Gsa</title>
+	<link rel="stylesheet" href="/assets/index.css" />
+
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <div class="container">
+		<header class="row">
+			<div class="col-md-6">
+				<div class="row">
+					<span class="col-md-2">
+						<img id="usda-logo" src="/assets/usda-logo.png">
+					</span>
+					<span class="col-md-10 title">
+						<span class="header-text">United States Department of Agrigulture</span>
+						<span class="block sub-header-text">Forest Service</span>
+					</span>
+				</div>
+			</div>
+			<div class="col-md-3"></div>
+			<div class="col-md-3">
+				<div class="row">
+					<span class="col-md-6"></span>
+					<span class="col-md-4"></span>
+					<span class="col-md-2">
+						<img id="forest-service-logo" src="/assets/forest-service-logo.png">
+					</span>
+				</div>
+			</div>
+		</header>
+		<div class="row main-content">
+			<aside class="col-md-3">
+				<ul class="nav nav-pills nav-stacked">
+				  <li role="presentation" class="active"><a href="#">Dashboard</a></li>
+				  <li role="presentation"><a href="#">Profile</a></li>
+				  <li role="presentation"><a href="#">Messages</a></li>
+				</ul>
+			</aside>
+			<atricle class="col-md-9 content">
+				<nav class="row">
+					<span class="col-lg-12">
+						<img id="icon-home" src="../app/assets/images/icon-home.png">
+						<span class="description-title">Dashboard</span>
+					</span>
+				</nav>
+				<section class="row small-widgets">
+					<span class="col-md-4 widget-col">
+						<div id="piechart"></div>
+					</span>
+					<span class="col-md-4 widget-col">
+						<span class="widget widget-2"></span>
+					</span>
+					<span class="col-md-4 widget-col">
+						<span class="widget widget-3"></span>
+					</span>
+				</section>
+				<section class="row main-widgets">
+					<span class="col-md-12 widget-col" >
+						<div id="chart_div"></div>
+					</span>
+				</section>
+				<section class="row">
+					<div class="col-md-12 widget-col" >
+						<div id="map" class=""></div>
+					</div>
+				</section>
+			</atricle>
+		</div>
+	</div>
 
 <%= yield %>
+
+	<script type="text/javascript" src="/assets/lib/jquery/jquery-2.2.3.min.js"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript" src="scripts/histogram.js"></script>
+	<script type="text/javascript" src="scripts/pie_chart.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://d3js.org/queue.v1.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
 
 </body>
 </html>
