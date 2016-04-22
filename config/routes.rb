@@ -14,4 +14,6 @@ Rails.application.routes.draw do
   resources :regions
 
   get 'reseed' => 'application#reseed', as: :reseed
+  
+  get "get_energy_use_by_state" => "facilities#get_energy_use_by_state", as: :get_energy_use_by_state
 end

@@ -1,0 +1,9 @@
+<% @covered_facility.each do |covered_facility| %>
+{
+  square_feet: <%= covered_facility.gross_sqft %>,
+  facility_name: <%= covered_facility.name %>,
+  num_buildings: <%= covered_facility.num_buildings %>,
+  energy_use: <%= covered_facility.total_use %>,
+  state: <%= Facility.where(name: covered_facility.name).first.select(:state) %>
+}
+<% end %>
