@@ -11,9 +11,6 @@ class FacilitiesController < ApplicationController
 	end
 	
 	def get_energy_use_by_state
-		@covered_facilities = CoveredFacility.all
-		respond_to do |format|
-			format.json { render file: "energy_use_by_state.json.erb", content_type: 'application/json' }
-		end
+		render json: CoveredFacility.select(:state, :name, :gross_sqft, :num_buildings)
 	end
 end
