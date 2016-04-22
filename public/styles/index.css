@@ -2,6 +2,10 @@ img[id="usda-logo"]{
 	height: 70px;
 }
 
+img[id="forest-service-logo"]{
+	height: 90px;
+}
+
 header.row{
 	margin-top: 20px;
 }
@@ -28,3 +32,15 @@ header.row{
 	padding-left: 25px;
 }
 
+.main-content{
+	margin-top: 15px;
+}
+
+.description-title{
+	font-size: 2em;
+	vertical-align: middle;
+}
+
+#icon-home{
+	height: 40px;
+}
