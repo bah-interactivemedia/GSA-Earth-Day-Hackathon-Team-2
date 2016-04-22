@@ -6,28 +6,35 @@ class ApplicationController < ActionController::Base
   def reseed
    require 'csv'
    
-   Region.destroy_all
-   Forest.destroy_all
-   District.destroy_all
+   OrgCode.destroy_all
+   #Forest.destroy_all
+   #District.destroy_all
+   ZipCodeClimateZone.destroy_all
    
-   region = File.read("#{Rails.root}/db/region.csv")
-   forest = File.read("#{Rails.root}/db/forest.csv")
-   district = File.read("#{Rails.root}/db/district.csv")
+   org_code = File.read("#{Rails.root}/db/org_codes.csv")
+   #forest = File.read("#{Rails.root}/db/forest.csv")
+   #district = File.read("#{Rails.root}/db/district.csv")
+   zip_code_climate = File.read("#{Rails.root}/db/zip_code_climate_zone_reference.csv")
    
-   csv = CSV.parse(region, :headers => true)
+   csv = CSV.parse(org_code, :headers => true)
    csv.each do |row|
       puts params
-      Region.create!(row.to_hash)
+      OrgCode.create!(row.to_hash)
    end
    
-   csv = CSV.parse(forest, :headers => true)
-   csv.each do |row|
-      Forest.create!(row.to_hash)
-   end
+   #csv = CSV.parse(forest, :headers => true)
+   #csv.each do |row|
+  #    Forest.create!(row.to_hash)
+  # end
    
-   csv = CSV.parse(district, :headers => true)
+   #csv = CSV.parse(district, :headers => true)
+   #csv.each do |row|
+  #    District.create!(row.to_hash)
+  # end
+   
+   csv = CSV.parse(zip_code_climate, :headers => true)
    csv.each do |row|
-      District.create!(row.to_hash)
+      ZipCodeClimateZone.create!(row.to_hash)
    end
   end
 end

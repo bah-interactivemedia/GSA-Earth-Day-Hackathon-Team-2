@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160422140122) do
+ActiveRecord::Schema.define(version: 20160422154832) do
 
   create_table "districts", force: :cascade do |t|
     t.integer  "cd"
@@ -28,11 +28,34 @@ ActiveRecord::Schema.define(version: 20160422140122) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "org_codes", force: :cascade do |t|
+    t.integer  "region"
+    t.string   "region_name"
+    t.integer  "forest"
+    t.string   "forest_name"
+    t.integer  "district"
+    t.string   "district_name"
+    t.string   "state"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
   create_table "regions", force: :cascade do |t|
     t.integer  "cd"
     t.string   "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "zip_code_climate_zones", force: :cascade do |t|
+    t.string   "zip"
+    t.string   "state"
+    t.string   "county"
+    t.string   "city_town"
+    t.integer  "climate_zone"
+    t.string   "moisture_regime"
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
   end
 
 end
