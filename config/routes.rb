@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
+  resources :facilities
   get 'reseed' => 'application#reseed', as: :reseed
+
+  # namespace "api/v1" do
+  #   resource :facilities
+  # end
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
