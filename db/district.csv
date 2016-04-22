@@ -1,0 +1,1162 @@
+cd,name,state
+,,MT
+0,Supervisor’s Office,MT
+1,Dillon RD,MT
+2,Wise River RD,MT
+3,Wisdom RD,MT
+4,Butte RD,MT
+6,Madison RD,MT
+7,Jefferson RD,MT
+8,Pintler RD,MT
+9,Philipsburg RD (Legacy),MT
+10,,MT
+30,,MT
+0,Supervisor’s Office,MT
+1,Stevensville RD,MT
+2,Darby RD,MT
+3,Sula RD,ID
+3,Sula RD,MT
+4,West Fork RD,ID
+4,West Fork RD,MT
+5,,MT
+6,Trapper Creek Job Corp,MT
+8,Anaconda Job Corp,MT
+0,Supervisor’s Office,ID
+1,Wallace RD,ID
+2,Avery RD,ID
+3,Fernan RD,ID
+4,Saint Maries RD,ID
+6,Sandpoint RD,ID
+6,Sandpoint RD,MT
+7,Bonners Ferry RD,ID
+7,Bonners Ferry RD,MT
+8,Priest Lake RD,ID
+8,Priest Lake RD,WA
+10,Coeur D'Alene Nursery,ID
+0,Supervisor’s Office,ID
+1,Pierce RD,ID
+2,Palouse RD,ID
+3,North Fork RD,ID
+5,Lochsa RD,ID
+6,Powell RD,ID
+0,Supervisor’s Office,MT
+1,Sheyenne RD (Legacy),ND
+1,Sheyenne RD (Legacy),ND
+2,Beartooth RD,MT
+3,Sioux RD,MT
+3,Sioux RD,SD
+4,Ashland RD,MT
+5,,MT
+6,Grand River RD (Legacy),ND
+6,Grand River RD (Legacy),ND
+6,Grand River RD (Legacy),SD
+7,Medora RD (Legacy),ND
+8,Mckenzie RD (Legacy),ND
+0,Supervisor’s Office,MT
+1,Swan Lake RD,MT
+4,Spotted Bear RD,MT
+6,Hungry Horse RD,MT
+7,Glacier View RD,MT
+8,Tally Lake RD,MT
+0,Supervisor’s Office,MT
+1,Big Timber RD,MT
+2,Livingston RD,MT
+3,Gardiner RD,MT
+5,,MT
+6,Bozeman RD,MT
+7,Hebgen Lake RD,MT
+0,Supervisor’s Office,MT
+1,Townsend RD,MT
+2,Helena RD,MT
+4,Lincoln RD,MT
+6,,MT
+7,,MT
+0,Supervisor’s Office,MT
+1,Rexford RD,MT
+2,,MT
+3,Fortine RD,MT
+4,Three Rivers RD,ID
+4,Three Rivers RD,MT
+5,Libby RD,MT
+6,,MT
+7,Cabinet RD,ID
+7,Cabinet RD,MT
+0,Supervisor’s Office,MT
+1,Rocky Mountain RD,MT
+3,Belt Creek RD,MT
+4,Judith RD,MT
+6,Musselshell RD,MT
+7,White Sulphur Sprg RD,MT
+8,Lewis and Clark Interp Center,MT
+15,,MT
+30,,MT
+0,Supervisor’s Office,MT
+3,Missoula RD,MT
+4,Ninemile RD,MT
+5,Plains/Thompson Falls RD,MT
+6,Seeley RD,MT
+7,Superior RD,MT
+8,Thompson Falls RD (Legacy),MT
+9,,MT
+13,,MT
+0,Supervisor’s Office,ID
+1,Salmon River RD,ID
+3,,ID
+4,Clearwater RD,ID
+5,Red River RD,ID
+6,Moose Creek RD,ID
+7,Selway RD,ID
+8,Elk City RD,ID
+0,Supervisor’s Office,ND
+1,Sheyenne RD,ND
+6,Grand River RD,SD
+7,Medora RD,ND
+8,Mckenzie RD,ND
+,,MT
+,,MT
+,,MT
+,,MT
+,,MT
+,,CO
+0,Supervisor’s Office,WY
+1,Buffalo RD,WY
+3,Medicine Wheel RD,WY
+4,Paintrock RD,WY
+5,Tensleep RD,WY
+6,Tongue RD,WY
+9,,WY
+0,Supervisor’s Office,SD
+1,Bearlodge RD,WY
+3,Hell Canyon RD,SD
+3,Hell Canyon RD,WY
+4,Elk Mtn RD (Legacy),SD
+4,Elk Mtn RD (Legacy),WY
+6,Mystic RD,SD
+7,,SD
+8,Northern Hills RD,SD
+9,Pactola RD (Legacy),SD
+11,Spearfish RD (Legacy),SD
+11,Spearfish RD (Legacy),WY
+14,Boxelder Job Corp,SD
+0,Supervisor’s Office,CO
+1,,CO
+2,Grand Valley RD,CO
+5,Norwood RD,CO
+6,Ouray RD,CO
+7,Gunnison RD,CO
+8,Paonia RD,CO
+9,Taylor River RD (Legacy),CO
+95,,CO
+0,Supervisor’s Office,WY
+1,Yampa RD,CO
+2,Brush Creek-Hayden RD,WY
+3,Hahns Pk-Bears Ears RD,CO
+4,Parks RD,WY
+5,Laramie RD,WY
+6,Laramie Peak RD (Legacy),WY
+9,Douglas-Thunder Basin RD,WY
+11,,
+0,Supervisor’s Office,NE
+1,Bessey RD,NE
+2,Pine Ridge RD,NE
+3,Bessey Nursery,NE
+4,Pine Ridge Civilian Consv Center,NE
+5,Fall River RD,SD
+6,Wall RD,SD
+31,,NE
+47,,NE
+0,Supervisor’s Office,CO
+1,,CO
+2,,CO
+3,Conejos Peak RD,CO
+4,Divide RD,CO
+5,Mancos/Dolores RD (Legacy),CO
+6,Pagosa RD (Legacy),CO
+7,Saguache RD,CO
+8,Columbine RD (Legacy),CO
+0,Supervisor’s Office,CO
+1,Boulder RD,CO
+4,Estes-Poudre RD (Legacy),CO
+5,Canyon Lakes RD,CO
+6,Pawnee NG,CO
+7,Clear Creek RD,CO
+8,Sulphur RD,CO
+97,,CO
+1,,CO
+3,,CO
+4,,CO
+5,,CO
+6,,CO
+0,Supervisor’s Office,CO
+1,Leadville RD,CO
+2,Salida RD,CO
+3,San Carlos RD,CO
+6,Comanche NG,CO
+7,Cimarron NG,KS
+9,Pikes Peak RD,CO
+10,South Park RD,CO
+11,South Platte RD,CO
+0,Supervisor’s Office,CO
+1,,CO
+2,,CO
+5,Mancos-Dolores RD,CO
+6,Pagosa RD,CO
+8,Columbine RD,CO
+0,Supervisor’s Office,WY
+1,Clarks Fork RD,WY
+2,Greybull RD,WY
+3,Washakie RD,WY
+4,Wapiti RD,WY
+5,Wind River RD,WY
+0,Supervisor’s Office,CO
+1,West Zone/Aspen RD,CO
+2,West Zone/Blanco RD,CO
+3,West Zone/Sopris RD,CO
+4,East Zone/Eagle RD,CO
+7,East Zone/Holy Cross RD,CO
+8,West Zone/Rifle RD,CO
+10,East Zone/Dillon RD,CO
+97,,CO
+,,CO
+,,CO
+,,NM
+0,Supervisor’s Office,AZ
+1,Alpine RD,AZ
+2,Black Mesa RD,AZ
+3,Clifton RD,AZ
+4,Chevelon RD (Legacy),AZ
+5,Heber RD (Legacy),AZ
+6,Springerville RD,AZ
+7,Lakeside RD,AZ
+8,,AZ
+0,Supervisor’s Office,NM
+1,Canjilon RD,NM
+2,El Rito RD,NM
+3,Jicarilla RD,NM
+4,Camino Real RD,NM
+5,,NM
+6,Tres Piedras RD,NM
+7,Questa RD,NM
+0,Supervisor’s Office,NM
+1,,NM
+2,Mount Taylor RD,NM
+3,Magdalena RD,NM
+4,Mountainair RD,NM
+5,Sandia RD,NM
+6,Black Kettle Nat'L Grasslands,OK
+6,Black Kettle Nat'L Grasslands,TX
+7,Kiowa/Rita Blanca Nal'L Grasslands,NM
+8,Rita Blanca RD (Legacy),OK
+8,Rita Blanca RD (Legacy),TX
+0,Supervisor’s Office,AZ
+1,Beaver Creek RD (Legacy),AZ
+2,Peaks RD,AZ
+3,Flagstaff RD (Legacy),AZ
+4,Long Valley RD (Legacy),AZ
+5,Mormon Lake RD,AZ
+6,Red Rock RD,AZ
+7,Mogollon Rim RD,AZ
+0,Supervisor’s Office,AZ
+1,Douglas RD,AZ
+1,Douglas RD,NM
+2,Nogales RD,AZ
+3,Sierra Vista RD,AZ
+4,Safford RD,AZ
+5,Santa Catalina RD,AZ
+6,,AZ
+0,Supervisor’s Office,NM
+2,Black Range RD,NM
+3,Quemado RD,NM
+4,Glenwood RD,NM
+5,Wilderness RD,NM
+6,Reserve RD,NM
+7,Silver City RD,NM
+8,,NM
+9,,NM
+0,Supervisor’s Office,AZ
+1,Williams RD,AZ
+2,Chalender RD (Legacy),AZ
+3,North Kaibab RD,AZ
+4,Tusayan RD,AZ
+5,,AZ
+0,Supervisor’s Office,NM
+1,Smokey Bear RD,NM
+2,Sacramento RD,NM
+3,Guadalupe RD,NM
+4,,NM
+0,Supervisor’s Office,AZ
+1,Chino Valley RD,AZ
+2,Prescott Fire Center,AZ
+3,Bradshaw RD,AZ
+5,Verde RD,AZ
+0,Supervisor’s Office,NM
+1,Coyote RD,NM
+2,Cuba RD,NM
+3,Jemez RD,NM
+4,Las Vegas RD (Legacy),NM
+5,Pecos-Las Vegas RD,NM
+5,Pecos/Las Vegas RD,NM
+6,Espanola RD,NM
+8,,NM
+96,,NM
+0,Supervisor’s Office,AZ
+1,Cave Creek RD,AZ
+2,Globe RD,AZ
+3,Mesa RD,AZ
+4,Payson RD,AZ
+5,Pleasant Valley RD,AZ
+6,Tonto Basin RD,AZ
+,,AZ
+,,NM
+,,NM
+,,NM
+,,NM
+,,UT
+0,Supervisor’s Office,UT
+1,Flaming Gorge RD,UT
+1,Flaming Gorge RD,WY
+2,Vernal RD,UT
+3,Roosevelt RD,UT
+4,Duchesne RD,UT
+0,Supervisor’s Office,ID
+1,Mountain Home RD,ID
+2,Boise RD (Legacy),ID
+3,Idaho City RD,ID
+4,Cascade RD,ID
+5,Lowman RD,ID
+6,Emmett RD,ID
+7,Lucky Peak Nursery,ID
+16,,ID
+0,Supervisor’s Office,WY
+1,Kemmerer RD,WY
+2,Big Piney RD,WY
+3,Greys River RD,WY
+4,Jackson RD,WY
+5,Gros Ventre RD (Legacy),WY
+6,Buffalo RD,WY
+7,Pinedale RD,WY
+1,,ID
+2,Soda Springs RD (Legacy),ID
+2,Soda Springs RD (Legacy),WY
+3,Montpelier-Cach RD (Legacy),ID
+4,Malad RD (Legacy),ID
+4,Malad RD (Legacy),UT
+5,Pocatello RD (Legacy),ID
+9,,ID
+52,,ID
+0,,ID
+1,,ID
+2,,ID
+3,,ID
+4,,ID
+5,,ID
+7,,ID
+0,Supervisor’s Office,UT
+1,Pine Valley RD,UT
+2,Cedar City RD,UT
+3,Powell RD,UT
+4,Escalante RD,UT
+5,Teasdale RD,UT
+7,,UT
+0,Supervisor’s Office,UT
+1,Fillmore RD,UT
+2,Loa RD,UT
+3,Beaver RD,UT
+4,Richfield RD,UT
+5,,UT
+1,Mountain City RD (Legacy),NV
+2,Ruby Mountains RD (Legacy),NV
+3,Jarbidge RD (Legacy),NV
+4,Ely RD (Legacy),NV
+5,Santa Rosa RD (Legacy),NV
+8,,NV
+9,,NV
+10,,NV
+12,,NV
+0,Supervisor’s Office,UT
+1,Sanpete RD,UT
+2,Ferron RD,UT
+3,Price RD,UT
+4,Moab RD,CO
+4,Moab RD,UT
+5,Monticello RD,UT
+0,Supervisor’s Office,ID
+1,Council RD,ID
+2,Weiser RD,ID
+3,New Meadows RD,ID
+4,Mccall RD,ID
+5,Big Creek RD,ID
+6,Krassel RD,ID
+13,,ID
+0,Supervisor’s Office,ID
+1,Salmon-Cobalt RD,ID
+2,Challis RD,ID
+3,Yankee Fork RD,ID
+4,Lost River RD,ID
+5,Salmon RD,ID
+6,Middle Fork RD,ID
+7,North Fork RD,ID
+8,Leadore RD,ID
+0,Supervisor’s Office,ID
+1,Minidoka RD,ID
+1,Minidoka RD,UT
+2,Minidoka RD,ID
+3,Ketchum RD,ID
+4,Sawtooth NRA,ID
+5,Fairfield RD,ID
+0,Supervisor’s Office,ID
+1,Dubois RD (Legacy),ID
+2,Island Park RD (Legacy),ID
+2,Island Park RD (Legacy),WY
+3,Ashton RD (Legacy),ID
+3,Ashton RD (Legacy),WY
+4,Palisades RD (Legacy),ID
+4,Palisades RD (Legacy),UT
+4,Palisades RD (Legacy),WY
+5,Teton Basin RD (Legacy),ID
+5,Teton Basin RD (Legacy),WY
+51,Dubois RD,ID
+52,Ashton/Island Park RD,ID
+52,Ashton/Island Park RD,WY
+53,Montpelier RD,ID
+54,Palisades RD,ID
+54,Palisades RD,UT
+54,Palisades RD,WY
+55,Soda Springs RD,ID
+55,Soda Springs RD,WY
+56,Teton Basin RD,ID
+56,Teton Basin RD,WY
+57,Westside RD,ID
+0,Supervisor’s Office,NV
+1,Carson RD,CA
+1,Carson RD,NV
+2,Bridgeport RD,CA
+2,Bridgeport RD,NV
+3,Austin RD,NV
+4,Tonopah RD,NV
+5,Spring Mountains NRA,NV
+6,Mountain City RD,NV
+7,Ruby Mountains RD,NV
+8,Jarbidge RD,NV
+9,Ely RD,NV
+10,Santa Rosa RD,NV
+1,Heber RD (Legacy),UT
+2,Pleasant Grove RD (Legacy),UT
+3,Spanish Fk.Neph RD (Legacy),UT
+4,,UT
+7,,UT
+0,Supervisor’s Office,UT
+1,Salt Lake RD,UT
+2,Pleasant Grove RD,UT
+3,Heber-Kamas RD,UT
+4,Evanston-Mountain View RD,UT
+4,Evanston-Mountain View RD,WY
+5,Mountain View RD (Legacy),UT
+5,Mountain View RD (Legacy),WY
+6,Ogden RD,UT
+7,Logan RD,UT
+8,Spanish Fork RD,UT
+,,UT
+,,CA
+0,Supervisor's Office,CA
+51,Los Angeles River RD,CA
+52,San Gabriel River RD,CA
+53,Santa Clara/Mojave Rivers RD,CA
+54,Valyermo RD (Legacy),CA
+55,Tujunga RD (Legacy),CA
+0,Supervisor's Office,CA
+1,,CA
+52,Trabuco RD,CA
+53,Palomar RD,CA
+54,Descanso RD,CA
+0,Supervisor's Office,CA
+51,Amador RD,CA
+53,Georgetown RD,CA
+55,Pacific RD,CA
+56,Placerville RD,CA
+57,Placerville Nursery,CA
+0,Supervisor's Office,CA
+51,Mono RD,CA
+51,Mono RD,NV
+52,Mammoth RD,CA
+53,White Mountain RD,CA
+53,White Mountain RD,NV
+54,Mount Whitney RD,CA
+0,Supervisor's Office,CA
+51,Oak Knoll RD,CA
+51,Oak Knoll RD,OR
+52,Happy Camp RD,CA
+53,,CA
+54,Salmon River RD,CA
+55,Scott River RD,CA
+57,Goosenest RD,CA
+58,Orleans/Ukonom RD,CA
+0,Supervisor's Office,CA
+50,,CA
+51,Almanor RD,CA
+53,Hat Creek RD,CA
+58,Eagle Lake RD,CA
+0,Supervisor's Office,CA
+51,Monterey RD,CA
+53,Santa Lucia RD,CA
+54,Santa Barbara RD,CA
+55,Ojai RD,CA
+57,Mt. Pinos RD,CA
+0,Supervisor's Office,CA
+45,,CA
+51,Corning RD (Legacy),CA
+52,Genetic Resource Center-Chico,CA
+53,Grindstone RD,CA
+54,Upper Lake RD,CA
+56,Covelo RD,CA
+0,Supervisor's Office,CA
+53,Warner Mountain RD,CA
+54,Big Valley RD,CA
+55,Devils Garden RD,CA
+56,Doublehead RD,CA
+0,Supervisor's Office,CA
+1,,CA
+51,Gasquet RD,CA
+52,Orleans RD,CA
+53,Lower Trinity RD,CA
+54,Mad River RD,CA
+58,,CA
+0,Supervisor's Office,CA
+1,Beckwourth RD,CA
+2,Mt. Hough RD,CA
+3,Feather RD,CA
+4,,CA
+5,,CA
+51,,CA
+52,,CA
+53,,CA
+54,,CA
+55,,CA
+56,,CA
+0,Supervisor's Office,CA
+51,Arrowhead RD,CA
+52,Big Bear RD,CA
+53,Cajon RD,CA
+54,San Gorgonio RD,CA
+55,San Jacinto RD,CA
+0,Supervisor's Office,CA
+51,Hume Lake RD,CA
+52,Western Divide RD,CA
+53,Hot Springs RD (Legacy),CA
+54,Kern River RD,CA
+56,Cannell-Meadow RD (Legacy),CA
+0,Supervisor's Office,CA
+1,,CA
+2,,CA
+4,,CA
+28,,CA
+50,,CA
+51,Yolla Bolla RD,CA
+52,Hayfork RD,CA
+53,,CA
+54,Big Bar RD,CA
+56,Weaverville RD,CA
+58,Shasta Lake RD,CA
+59,Mt. Shasta RD,CA
+61,McCloud RD,CA
+0,Supervisor's Office,CA
+51,Bass Lake RD,CA
+52,High Sierra RD,CA
+53,Pineridge RD (Legacy),CA
+54,Kings River RD (Legacy),CA
+55,Bass Lake RD (Legacy),CA
+0,Supervisor's Office,CA
+51,Mi-Wok RD,CA
+52,Calaveras RD,CA
+53,Summit RD,CA
+54,Groveland RD,CA
+0,Supervisor's Office,CA
+53,Yuba River RD,CA
+54,American River RD,CA
+55,Nevada City RD (Legacy),CA
+56,Sierraville River RD,CA
+57,Truckee RD,CA
+0,Supervisor Office,CA
+53,Eldorado RD,CA
+54,Toiyabe RD,CA
+54,Toiyabe RD,NV
+57,Tahoe RD,CA
+,,CA
+,,CA
+,,OR
+0,Supervisor's Office,OR
+1,Bend/Ft Rock RD,OR
+2,Crescent RD,OR
+3,Fort Rock RD,OR
+5,Sisters RD,OR
+6,Redmond Air Center,OR
+16,,OR
+19,Bend Nursery,OR
+35,,OR
+0,Supervisor's Office,OR
+1,Bly RD,OR
+2,Lakeview RD,OR
+3,Paisley RD,OR
+4,Silver Lake RD,OR
+11,Chemult RD,OR
+12,Chiloquin RD,OR
+13,Klamath RD,OR
+0,Supervisor's Office,WA
+1,Mt St Helens Natl Volcanic Monument,WA
+3,Mt. Adams RD,WA
+4,Packwood RD (Legacy),WA
+5,Cowlitz Valley RD,WA
+8,Wind River RD (Legacy),WA
+19,Wind River Nursery,WA
+0,Supervisor's Office,OR
+1,Blue Mountain RD,OR
+2,Emigrant Creek RD,OR
+3,Long Creek RD,OR
+4,Prairie City RD,OR
+6,,OR
+12,,OR
+0,Supervisor's Office,WA
+1,Mt Baker RD,WA
+2,Darrington RD,WA
+3,Glacier RD (Legacy),WA
+4,Monte Cristo RD (Legacy),WA
+5,North Bend RD,WA
+6,Skykomish RD,WA
+7,White River RD,WA
+0,Supervisor's Office,OR
+1,Barlow RD,OR
+2,Bear Springs RD (Legacy),OR
+3,Clackamas RD (Legacy),OR
+4,Columbia Gorge RD (Legacy),OR
+5,Clackamas River RD,OR
+6,Hood River RD,OR
+9,Zigzag RD,OR
+10,Timber Lake Civilian Consv Center,OR
+0,Supervisor's Office,OR
+1,Lookout Mountain RD,OR
+2,Paulina RD,OR
+3,Prineville RD (Legacy),OR
+4,Snow Mountain RD (Legacy),OR
+5,Crooked River Natl Grassland,OR
+7,,OR
+1,Conconully RD (Legacy),WA
+3,Tonasket RD (Legacy),WA
+4,Twisp RD (Legacy),WA
+5,Winthrop RD (Legacy),WA
+7,Methow RD (Legacy),WA
+0,Supervisor's Office,WA
+1,Hood Canal RD/Hoodsport,WA
+2,Hood Canal RD/Quilcene,WA
+3,Pacific RD/Quinault,WA
+4,Shelton RD (Legacy),WA
+5,Pacific RD/Forks,WA
+16,,WA
+0,Supervisor's Office,OR
+1,Applegate RD (Legacy),CA
+1,Applegate RD (Legacy),OR
+2,Ashland RD (Legacy),OR
+3,Butte Falls RD (Legacy),OR
+6,Prospect RD (Legacy),OR
+19,J. Herbert Stone Nursery,OR
+20,Siskiyou Mountains RD,OR
+22,Wild Rivers RD,OR
+24,High Cascades RD,OR
+26,Gold Beach RD,OR
+28,Powers RD,OR
+1,Chetco RD (Legacy),OR
+2,Galice RD (Legacy),OR
+3,Gold Beach RD (Legacy),OR
+4,Ill. Valley RD (Legacy),CA
+4,Ill. Valley RD (Legacy),OR
+5,Powers RD (Legacy),OR
+6,,OR
+51,,OR
+0,Supervisor's Office,OR
+1,Hebo RD,OR
+2,Mapleton RD (Legacy),OR
+3,Alsea RD,OR
+4,Oregon Dunes NRA (Legacy),OR
+5,Waldport RD (Legacy),OR
+7,Angell Job Corp Civilian Consv Center,OR
+8,Central Coast RD-Oregon Dunes NRA,OR
+0,Supervisor's Office,OR
+1,Dale RD (Legacy),OR
+2,Heppner RD,OR
+4,Pomeroy RD,OR
+4,Pomeroy RD,WA
+5,N. Fork John Day RD,OR
+6,Walla Walla RD,OR
+6,Walla Walla RD,WA
+20,,OR
+0,Supervisor's Office,OR
+1,Cottage Grove RD,OR
+2,Tiller RD,OR
+3,Diamond Lake RD,OR
+4,Glide RD,OR
+5,Dorena Genetic Resource Ctr,OR
+6,North Umpqua RD,OR
+20,,OR
+0,Supervisor's Office,OR
+1,Baker RD,OR
+2,Wallowa Valley RD,OR
+4,Hells Canyon NRA,ID
+4,Hells Canyon NRA,OR
+5,Eagle Cap RD,OR
+6,La Grande RD,OR
+7,Pine RD,OR
+8,Union RD (Legacy),OR
+9,Unity RD,OR
+53,,OR
+0,Supervisor's Office,WA
+2,Chelan RD,WA
+3,Cle Elum RD,WA
+4,Methow Valley RD,WA
+5,Entiat RD,WA
+6,Lake Wenatchee RD,WA
+7,Okanogan-Wenatchee Ntl Forests,WA
+8,Naches RD,WA
+9,Tonasket RD,WA
+20,N Cascade Smokejumper Base,WA
+0,Supervisor's Office,OR
+1,McKenzie River RD,OR
+2,,WA
+3,Sweet Home RD,OR
+4,Administrative Services,OR
+4,Detroit RD,OR
+5,Rigdon RD,OR
+6,Lowell RD,OR
+7,Mckenzie RD (Legacy),OR
+8,Oakridge RD,OR
+10,Middle Fork RD,OR
+20,,OR
+1,Chemult RD (Legacy),OR
+2,Chiloquin RD (Legacy),OR
+3,Klamath RD (Legacy),OR
+35,,OR
+0,Supervisor's Office,WA
+1,Colville RD (Legacy),WA
+2,Kettle Falls RD (Legacy),WA
+3,Newport RD,WA
+4,Republic RD,WA
+5,Sullivan Lake RD,WA
+6,Curlew Civilian Consv Center,WA
+12,Three Rivers Ranger District,WA
+0,Main Office,OR
+1,,OR
+1,,WA
+,,OR
+,,GA
+0,,AL
+1,Bankhead RD,AL
+2,,AL
+3,Conecuh RD,AL
+4,Oakmulgee RD,AL
+5,Shoal Creek RD,AL
+6,Talladega RD,AL
+7,Tuskegee RD,AL
+13,,AL
+15,,AL
+0,Supervisor's Office,KY
+2,,KY
+4,,KY
+6,,KY
+7,,KY
+11,Cumberland RD,KY
+12,Stanton RD,KY
+13,Berea RD (Legacy),KY
+14,London RD,KY
+15,Somerset RD,KY
+16,Stearns RD,KY
+17,Redbird RD,KY
+18,Frenchburg Civilian Consv Center,KY
+19,Pine Knot Civilian Consv Center,KY
+32,,KY
+0,Supervisor's Office,GA
+1,Conasauga RD,GA
+2,Blue Ridge RD,GA
+3,Chestatee RD,GA
+4,Brasstown RD (Legacy),GA
+5,Tallulah RD (Legacy),GA
+6,Chattooga RD,GA
+7,Cohutta RD (Legacy),GA
+8,Oconee RD,GA
+11,,GA
+12,,GA
+14,,GA
+18,,GA
+33,,GA
+0,Supervisor's Office,TN
+1,Hiwassee RD (Legacy),TN
+2,Nolichucky/Unaka RD,TN
+3,Ocoee/Hiwassee RD,TN
+4,Tellico RD,TN
+5,Unaka RD (Legacy),TN
+6,Watauga RD,NC
+6,Watauga RD,TN
+6,Watauga RD,VA
+7,Jacobs Cr Civilian Consv Center,TN
+10,,TN
+14,,TN
+0,,FL
+1,Apalachicola RD,FL
+2,Lake George RD,FL
+3,,FL
+4,Osceola RD,FL
+5,Seminole RD,FL
+6,Wakulla RD,FL
+0,Supervisor's Office,LA
+1,Catahoula RD,LA
+2,Calcasieu RD,LA
+3,Kisatchie RD,LA
+4,Winn RD,LA
+5,Vernon RD (Legacy),LA
+6,Caney RD,LA
+8,Caney RD,LA
+36,,LA
+0,,MS
+1,Bienville RD,MS
+2,De Soto RD,MS
+3,,MS
+4,Homochitto RD,MS
+5,Chickasawhay RD,MS
+6,Delta RD,MS
+7,Holly Springs RD,MS
+8,,MS
+10,,MS
+17,Tombigbee RD,MS
+20,,MS
+37,,MS
+0,Supervisor's Office,VA
+1,Deerfield RD (Legacy),VA
+2,North River RD,VA
+2,North River RD,WV
+3,James River RD,VA
+3,James River RD,WV
+4,Lee RD,VA
+4,Lee RD,WV
+5,Pedlar RD (Legacy),VA
+6,Warm Springs RD,VA
+7,Flatwoods Civilian Consv Center,VA
+8,,VA
+11,Eastern Divide RD,VA
+11,Eastern Divide RD,WV
+12,Clinch RD,KY
+12,Clinch RD,VA
+12,Clinch RD,VA
+13,Glenwood-Pedlar RD,VA
+14,Mt. Rogers NRA,VA
+15,New Castle RD (Legacy),VA
+15,New Castle RD (Legacy),WV
+16,Wythe RD (Legacy),VA
+17,,VA
+0,Supervisor's Office,AR
+1,Choctaw RD,OK
+2,Caddo RD,AR
+3,Cold Springs RD,AR
+4,Fourche RD,AR
+5,Jessieville RD,AR
+6,Kiamichi RD,OK
+7,Mena RD,AR
+8,Oden RD,AR
+9,Poteau RD,AR
+10,Womble RD,AR
+11,Winona RD,AR
+12,Tiak RD,OK
+13,Ouachita Civilian Consv Center,AR
+39,,AR
+40,,AR
+0,Supervisor's Office,AR
+1,Sylamore RD,AR
+2,Buffalo RD,AR
+3,Bayou RD,AR
+4,Pleasant Hill RD,AR
+5,Boston Mountain RD,AR
+6,Mt Magazine RD,AR
+7,St. Francis RD,AR
+9,Cass Civilian Consv Center,AR
+10,,AR
+40,,AR
+0,,NC
+1,Forest Supervisor Staff,NC
+2,Cheoah RD,NC
+3,Croatan RD,NC
+4,French Broad RD (Legacy),NC
+5,Grandfather RD,NC
+6,Highlands RD,NC
+7,Pisgah RD,NC
+8,Appalachian RD,NC
+9,Tusquittee RD,NC
+10,Uwharrie RD,NC
+11,Nantahala RD,NC
+0,Supervisor's Office,SC
+1,Enoree RD,SC
+2,Andrew Pickens RD,SC
+3,Long Cane RD,SC
+5,Francis Marion RD,SC
+5,Wambaw RD,SC
+6,Witherbee RD (Legacy),SC
+7,Tyger RD (Legacy),SC
+8,Edgefield RD (Legacy),SC
+10,,SC
+13,,SC
+0,,TX
+1,Angelina RD,TX
+2,San Jacinto RD (Legacy),TX
+3,Davy Crockett RD,TX
+4,Sam Houston RD,TX
+5,Tenaha RD (Legacy),TX
+6,Trinity RD (Legacy),TX
+7,Sabine RD,TX
+8,Caddo-LBJ RD,TX
+43,,TX
+0,Supervisor's Office,PR
+1,Catalina Field Office,PR
+,,GA
+,,GA
+,,SC
+0,LBL Office,KY
+1,Customer Services,KY
+1,Customer Services,TN
+,,WI
+,,WI
+0,Supervisor's Office,MN
+1,Blackduck RD,MN
+2,Cass Lake RD,MN
+3,Deer River RD,MN
+4,Marcell RD,MN
+5,Walker RD,MN
+0,Supervisor's Office,MI
+1,Baldwin RD,MI
+2,Cadillac RD,MI
+3,Manistee RD,MI
+4,White Cloud RD,MI
+5,Mio RD,MI
+6,Tawas RD,MI
+7,Harrisville RD,MI
+0,Supervisor's Office,MO
+1,,MO
+2,Fredericktown RD,MO
+3,Houston RD,MO
+4,Poplar Bluff RD,MO
+5,Potosi RD,MO
+6,Rolla RD,MO
+7,Salem RD,MO
+8,Cedar Creek RD,MO
+21,Ava RD,MO
+22,Cassville RD,MO
+23,Doniphan RD,MO
+25,Willow Springs RD,MO
+26,Eleven Point RD,MO
+0,Supervisor's Office,MI
+1,Bergland RD,MI
+1,Bergland RD,MI
+2,Bessemer RD,MI
+3,Iron River RD,MI
+4,Kenton RD,MI
+4,Kenton RD,MI
+5,Ontonagon RD,MI
+6,Watersmeet RD,MI
+0,Supervisor's Office,IL
+1,Elizabethtown RD (Legacy),IL
+2,Mississippi Bluffs RD,IL
+3,Murphysboro RD (Legacy),IL
+4,Hidden Springs RD,IL
+5,Golconda Civilian Consv Center,IL
+0,Supervisor's Office,MN
+1,Laurentian RD,MN
+2,Gunflint RD,MN
+4,Isabella RD,MN
+5,Kawishiwi RD,MN
+6,LaCroix RD,MN
+7,Tofte RD,MN
+9,,MN
+0,Supervisor's Office,MI
+1,Rapid River RD,MI
+2,Manistique RD,MI
+3,Munising RD,MI
+3,Munising RD,MI
+4,Sault Ste Marie RD,MI
+5,St Ignace RD,MI
+0,Supervisor's Office,IN
+1,,IN
+2,Brownstown RD,IN
+3,,IN
+4,Tell City RD,IN
+12,,IN
+0,Supervisor's Office,WI
+1,Medford-Park Falls RD,WI
+2,Great Divide RD,WI
+3,Eagle River-Florence RD,WI
+4,Lakewood-Laona RD,WI
+5,Washburn RD,WI
+9,,WI
+18,Northern Great Lakes Visitor Center,WI
+0,Supervisor's Office,OH
+1,Athens RD,OH
+3,Ironton RD,OH
+4,,OH
+14,,OH
+0,Supervisor's Office,IL
+0,Supervisor's Office,PA
+1,Sheffield RD,PA
+2,Marienville RD,PA
+3,Bradford RD,PA
+4,Ridgway RD,PA
+10,,PA
+0,Supervisor's Office,VT
+1,Middlebury RD,VT
+2,Manchester RD,VT
+3,Hector RD,NY
+3,Hector RD,VT
+5,Rochester RD,VT
+0,Supervisor's Office,WV
+1,Cheat RD,WV
+2,Gauley RD,WV
+3,Greenbrier RD,WV
+4,Marlinton RD,WV
+5,Potomac RD,WV
+6,White Sulphur RD,WV
+0,Supervisor's Office,NH
+1,Ammonoosuc RD (Legacy),NH
+2,Androscoggin RD,ME
+2,Androscoggin RD,NH
+3,Evans Notch RD (Legacy),ME
+3,Evans Notch RD (Legacy),NH
+4,Pemigewasset RD,NH
+5,Saco RD,ME
+5,Saco RD,NH
+,,ME
+,,OH
+,,WV
+,,WI
+54,Thorne Bay RD,AK
+,,AK
+0,Supervisor's Office,AK
+1,,AK
+2,,AK
+3,,AK
+10,Glacier RD,AK
+20,Cordova RD,AK
+30,Seward RD,AK
+0,Supervisor's Office,AK
+1,Administrative Staff,AK
+2,"Asst Fs, Chat",AK
+4,,AK
+5,,AK
+10,Craig RD,AK
+20,Ketchikan RD,AK
+21,Petersburg RD,AK
+22,Wrangell RD,AK
+31,Sitka RD,AK
+32,Hoonah RD,AK
+33,Juneau RD,AK
+34,Admiralty National Monument,AK
+35,Yakutat RD,AK
+36,,AK
+40,Thorne Bay RD,AK
+51,Craig RD,AK
+52,Ketchikan - Misty RD,AK
+,,WI
+,,WI
+,,PR
+,,PR
+,,DC
+,,ID
+,,UT
+,,DC
+,,DC
+,,DC
+,,DC
+,,DC
+,,DC
+,,DC
+,,DC
+,,CA
+,,MT
+,,NA
+,,CO
+,,VA
+,,KY
+,,TN
+,,NC
+,,KY
+,,NC
+,,AR
+,,AR
+,,WI
+,,IL
+,,MT
+,,MT
+,,SD
+,,NE
+,,OR
+,,OR
+,,OR
+,,WA
+,,MO
+,,KY
+,,WV
+,,NC
+,,ID
+,,CO
+,,WA
+,,WA
+,,OK
+,,UT
+,,CO
+,,MN
+,,WI
+,,MI
+,,MI
+,,IL
+,,MO
+,,IN
+,,MN
+,,VT
+,,DE
+,,WV
+,,NY
+,,NY
+,,PA
+1,Newtown Square,PA
+11,Amherst Field Office,MA
+13,Ansonia Forestry Sciences Lab,CT
+14,Burlington Forestry Sciences Lab,VT
+17,Delaware Forestry Sciences Lab,OH
+21,Durham Forestry Sciences Lab,NH
+25,Hamden Ne Cntr-Forest Health,CT
+29,Morgantown Fstry Sciences Lab,WV
+33,Parsons Timber And Watershed Lab,WV
+35,Princeton Forestry Sciences Lab,NJ
+39,Syracuse State University Of New York,NY
+41,Warren/Irvine Forestry Sciences Lab,PA
+51,St. Paul Forestry Sciences Lab,MN
+52,Grand Rapids Forestry Sciences Lab,MN
+53,Rhinelander Forestry Sciences Lab,WI
+54,W. Lafayette Forestry Sciences Lab,IN
+55,Houghton Forestry Sciences Lab,MI
+56,Columbia Forestry Sciences Lab,MO
+57,E. Lansing Forestry Sciences Lab,MI
+58,Evanston Forestry Sciences Lab,IL
+59,Madison,WI
+,,PA
+,,MA
+,,CT
+,,VT
+,,OH
+,,NH
+,,CT
+,,WV
+,,WV
+,,NJ
+,,NY
+,,PA
+,,NM
+,,NM
+,,NM
+,,NM
+,,OR
+,,OR
+,,CA
+,,CA
+,,NC
