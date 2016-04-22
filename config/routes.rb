@@ -11,5 +11,7 @@ Rails.application.routes.draw do
 
   resources :facilities
 
+  resources :regions
+
   get 'reseed' => 'application#reseed', as: :reseed
 end
