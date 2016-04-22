@@ -34,7 +34,7 @@
           ['Velociraptor (swift robber)', 1.8]]);
 
         var options = {
-          title: 'Lengths of dinosaurs, in meters',
+          title: 'Energy Use by Small Sized Facilities (< 15,000 sq ft)',
           legend: { position: 'none' },
         };
 
