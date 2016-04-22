@@ -1,2 +1,2 @@
 #! /bin/bash
-kill -9 $(pgrep -f rails)
+#kill -9 $(pgrep -f rails)
