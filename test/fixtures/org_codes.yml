@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  region: 1
+  region_name: MyString
+  forest: 1
+  forest_name: MyString
+  distict: 1
+  district_name: MyString
+  state: MyString
+
+two:
+  region: 1
+  region_name: MyString
+  forest: 1
+  forest_name: MyString
+  distict: 1
+  district_name: MyString
+  state: MyString

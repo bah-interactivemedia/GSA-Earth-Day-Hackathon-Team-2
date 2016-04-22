@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zip: MyString
+  state: MyString
+  county: MyString
+  city_town: MyString
+  climate_zone: 1
+  moisture_regime: MyString
+
+two:
+  zip: MyString
+  state: MyString
+  county: MyString
+  city_town: MyString
+  climate_zone: 1
+  moisture_regime: MyString
