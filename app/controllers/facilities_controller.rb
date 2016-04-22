@@ -11,6 +11,6 @@ class FacilitiesController < ApplicationController
 	end
 	
 	def get_energy_use_by_state
-		render json: CoveredFacility.select(:state, :name, :gross_sqft, :num_buildings)
+		render json: CoveredFacility.select(:state, :name, :gross_sqft, :num_buildings, :total_use)
 	end
 end
