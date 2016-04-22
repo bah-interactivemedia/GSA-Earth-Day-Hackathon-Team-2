@@ -14,18 +14,43 @@
 ActiveRecord::Schema.define(version: 20160422154832) do
 
   create_table "districts", force: :cascade do |t|
-    t.integer  "cd"
-    t.string   "name"
-    t.string   "state"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "cd",         limit: 4
+    t.string   "name",       limit: 255
+    t.string   "state",      limit: 255
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
   end
 
+  create_table "facilities", force: :cascade do |t|
+    t.string  "state",         limit: 255
+    t.integer "building_id",   limit: 4
+    t.string  "building_cn",   limit: 255
+    t.string  "building_name", limit: 255
+    t.string  "category",      limit: 255
+    t.string  "building_type", limit: 255
+  end
+
+  add_index "facilities", ["building_cn"], name: "building_cn", unique: true, using: :btree
+
   create_table "forests", force: :cascade do |t|
-    t.integer  "cd"
-    t.string   "name"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "cd",         limit: 4
+    t.string   "name",       limit: 255
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
+  end
+
+  create_table "measurements", force: :cascade do |t|
+    t.date    "timestamp"
+    t.integer "value",     limit: 4
+    t.integer "metric_id", limit: 4
+  end
+
+  create_table "metrics", force: :cascade do |t|
+    t.integer "facility_id",    limit: 4
+    t.string  "name",           limit: 11
+    t.string  "unit",           limit: 11
+    t.integer "is_smart_meter", limit: 1
+    t.string  "category",       limit: 255
   end
 
   create_table "org_codes", force: :cascade do |t|
@@ -41,10 +66,10 @@ ActiveRecord::Schema.define(version: 20160422154832) do
   end
 
   create_table "regions", force: :cascade do |t|
-    t.integer  "cd"
-    t.string   "name"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "cd",         limit: 4
+    t.string   "name",       limit: 255
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
   end
 
   create_table "zip_code_climate_zones", force: :cascade do |t|
