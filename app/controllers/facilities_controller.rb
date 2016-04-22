@@ -5,4 +5,8 @@ class FacilitiesController < ApplicationController
 
 	def show
 	end
+	
+	def get_climate_zone_by_zip
+		render json: ZipCodeClimateZone.where(zip: params[:zip]).select(:climate_zone, :moisture_regime)
+	end
 end

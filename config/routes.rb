@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   resources :facilities
   get 'reseed' => 'application#reseed', as: :reseed
+  get 'get_climate_zone_by_zip/:zip' => 'facilities#get_climate_zone_by_zip', as: :get_climate_zone_by_zip
 
   # namespace "api/v1" do
   #   resource :facilities
