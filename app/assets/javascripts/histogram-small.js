@@ -38,7 +38,7 @@
           legend: { position: 'none' },
         };
 
-        var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
+        var chart = new google.visualization.Histogram(document.getElementById('small-facilities-histogram'));
         chart.draw(data, options);
       }
 }());

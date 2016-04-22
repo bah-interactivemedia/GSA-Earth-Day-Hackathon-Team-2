@@ -12,5 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require histogram-small
+//= require histogram-medium
+//= require histogram-large
+//= require piechart
 //= require_tree .

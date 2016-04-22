@@ -1,5 +1,4 @@
 (function(){
-  google.charts.load("current", {packages:["corechart"]});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
@@ -38,7 +37,7 @@
           legend: { position: 'none' },
         };
 
-        var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
+        var chart = new google.visualization.Histogram(document.getElementById('large-facilities-histogram'));
         chart.draw(data, options);
       }
 }());
