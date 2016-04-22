@@ -22,7 +22,7 @@ jQuery(function() {
 
 	queue()
 	    .defer(d3.json, "/us.json")
-	    // .defer(d3.tsv, "./unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
+	    .defer(d3.tsv, "/unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
 	    .await(ready);
 
 	function ready(error, us) {

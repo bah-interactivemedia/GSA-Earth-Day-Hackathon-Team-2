@@ -3,16 +3,18 @@
       function drawPieChart() {
 
         var data = google.visualization.arrayToDataTable([
-          ['Task', 'Hours per Day'],
-          ['Work',     11],
-          ['Eat',      2],
-          ['Commute',  2],
-          ['Watch TV', 2],
-          ['Sleep',    7]
+          ['Facility Size', 'Total Gallons'],
+          ['0-10k sq ft.', 1514],
+          ['10k-15k sq ft.', 12016],
+          ['15k-20k sq ft.', 2742],
+          ['20k-50k sq ft.', 6245],
+          ['>50k sq ft.', 93]
+          // ['Small (< 25k sqft)', 16387],
+          // ['Large (> 25k sqft)', 2787],
         ]);
 
         var options = {
-          title: 'My Daily Activities'
+          title: 'Water use by Area'
         };
 
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));

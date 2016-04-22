@@ -13,7 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require histogram-small
-//= require histogram-medium
 //= require histogram-large
 //= require piechart
 //= require map
