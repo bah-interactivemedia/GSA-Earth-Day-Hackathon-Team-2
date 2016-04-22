@@ -9,12 +9,10 @@
           ['15k-20k sq ft.', 2742],
           ['20k-50k sq ft.', 6245],
           ['>50k sq ft.', 93]
-          // ['Small (< 25k sqft)', 16387],
-          // ['Large (> 25k sqft)', 2787],
         ]);
 
         var options = {
-          title: 'Water use by Area'
+          title: 'Total Water use by Facility Size'
         };
 
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
