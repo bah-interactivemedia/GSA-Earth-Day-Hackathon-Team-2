@@ -16,4 +16,5 @@
 //= require histogram-medium
 //= require histogram-large
 //= require piechart
+//= require map
 //= require_tree .

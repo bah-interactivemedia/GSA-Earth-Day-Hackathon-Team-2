@@ -1,4 +1,4 @@
-
+jQuery(function() {
 	var width = 850,
 	    height = 600,
 			centered;
@@ -21,7 +21,7 @@
 	    .attr("height", height);
 
 	queue()
-	    .defer(d3.json, "./us.json")
+	    .defer(d3.json, "/us.json")
 	    // .defer(d3.tsv, "./unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
 	    .await(ready);
 
@@ -70,3 +70,4 @@
 	}
 
 	d3.select(self.frameElement).style("height", height + "px");
+});
