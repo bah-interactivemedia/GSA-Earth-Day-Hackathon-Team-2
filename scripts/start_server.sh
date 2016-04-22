@@ -1,10 +1,8 @@
 #! /bin/bash
 echo "Running Bundle"
-bundle install
-echo "Precompling assetes"
-rake asstes:precompile
+/home/ec2-user/.rbenv/versions/2.3.0/bin/bundle install
 echo "Run Migrations"
-rake db:migrate
+/home/ec2-user/.rbenv/versions/2.3.0/bin/rake db:migrate
 echo "Running the rails server on production env"
-bin/rails s -b 0.0.0.0 -d -e production
+/home/ec2-user/.rbenv/versions/2.3.0/binrails s -b 0.0.0.0 -d
 
