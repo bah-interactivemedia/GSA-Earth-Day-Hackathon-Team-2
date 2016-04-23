@@ -47,5 +47,36 @@
 	<script src="http://d3js.org/queue.v1.min.js"></script>
 	<script src="http://d3js.org/topojson.v1.min.js"></script>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+
+  <script>
+  	 var config5 = liquidFillGaugeDefaultSettings();
+         config5.circleThickness = 0.4;
+         config5.circleColor = "#6DA398";
+         config5.textColor = "#0E5144";
+         config5.waveTextColor = "#6DA398";
+         config5.waveColor = "#246D5F";
+         config5.textVertPosition = 0.52;
+         config5.waveAnimateTime = 5000;
+         config5.waveHeight = 0;
+         config5.waveAnimate = true;
+         config5.waveCount = 5;
+         config5.waveRise = true;
+         config5.waveOffset = 0.25;
+         config5.textSize = 1.2;
+         config5.minValue = 30;
+         config5.maxValue = 150
+      	 config5.displayPercent = false;
+
+      var gauge5 = loadLiquidFillGauge("fillgauge5", 53.1);
+
+      function NewValue(){
+          if(Math.random() > .5){
+              return Math.round(Math.random()*100);
+          } else {
+              return (Math.random()*100).toFixed(1);
+          }
+      }
+  </script>
+
 </body>
 </html>

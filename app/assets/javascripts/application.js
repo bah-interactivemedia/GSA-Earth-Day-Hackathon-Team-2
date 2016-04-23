@@ -16,4 +16,5 @@
 //= require histogram-large
 //= require piechart
 //= require map
+//= require water
 //= require_tree .
